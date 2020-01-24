@@ -22,9 +22,16 @@
 
 .hero-image img {
   width: 100%;
-  padding-top: 3em;
+  padding-top: 2em;
   @media @mobile {
-    padding-top: 1em;
+    padding-top: .5em;
+  }
+}
+
+.inline-img {
+  padding-top: 1em;
+  @media @mobile {
+    padding-top: 0;
   }
 }
 
@@ -33,12 +40,21 @@
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 1em;
+  padding-bottom: .5em;
   font-family: @serif;
   color: grey;
   @media @mobile {
     padding-bottom: 0;
     margin-left: 20px;
     margin-right: 20px;
+  }
+}
+
+.caption p {
+  font-family: @serif;
+  font-size: 14px;
+  color: grey;
+  @media @mobile {
+  font-size: 12px;
   }
 }
