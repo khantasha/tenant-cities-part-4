@@ -1,0 +1,69 @@
+span.tooltip-style {
+  background-color: rgba(242, 188, 162,.3);
+  border-radius: 3px;
+  font-weight: bold;
+  padding-right: 4px;
+  // padding-left: 3px;
+  font-size: 21px;
+  cursor: pointer;
+}
+
+b {
+  font-size: 18px;
+}
+
+span.tooltip-style:before
+{
+    font-family: FontAwesome;
+    color: #B95825;
+    content: '\f059';
+    font-size: 15px;
+    margin-right: 3px;
+    margin-left: 4px;
+}
+
+#tooltip
+{
+    text-align: center;
+    color: #000;
+    background: @justice-salmon;
+    border-radius: 3px;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid @justice-salmon;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
