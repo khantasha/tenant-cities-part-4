@@ -26,6 +26,9 @@
   crossorigin="anonymous">
 </script>
 
+<!-- Type it -->
+<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
+
 <% if (!project.embedded) { %>
 
 <!-- BEGIN TWITTER SUMMARY CARD -->
@@ -49,3 +52,5 @@
 // if !project.embedded...
 }
 %>
+
+<%= t.include("partials/_analytics.html") %>
