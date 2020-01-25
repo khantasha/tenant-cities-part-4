@@ -21,7 +21,7 @@ jObj.children('.hidden-text').css('height', ''+ textMaxHeight);
 jObj.children('.hidden-text').css( 'transition', 'height .5s');
 jObj.children('.hidden-text').css('height', ''+ textMinHeight);
 
-jObj.append ('<button class="read-more">'+READ_MORE_LABEL+'</button>');
+jObj.append ('<button class="read-more btn">'+READ_MORE_LABEL+'</button>');
 
 jObj.children('.read-more').click ( function() {
   if (jObj.children('.hidden-text').css('height') === textMinHeight) {
@@ -58,7 +58,7 @@ jObj2.children('.hidden-text2').css('height', ''+ textMaxHeight2);
 jObj2.children('.hidden-text2').css( 'transition', 'height .5s');
 jObj2.children('.hidden-text2').css('height', ''+ textMinHeight2);
 
-jObj2.append ('<button class="read-more2">'+READ_MORE_LABEL2+'</button>');
+jObj2.append ('<button class="read-more2 btn">'+READ_MORE_LABEL2+'</button>');
 
 jObj2.children('.read-more2').click ( function() {
   if (jObj2.children('.hidden-text2').css('height') === textMinHeight2) {
