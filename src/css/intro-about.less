@@ -1,5 +1,5 @@
 .u-container {
-    background-color: rgba(230, 214, 199, .25);
+    background-color: @justice-beige;
     margin-left: auto;
     margin-right: auto;
     padding-top: 4.5em;
@@ -20,9 +20,18 @@
 .u-container-intro h1 {
   font-family: @mono;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 2.1em;
   color: black;
   text-transform: uppercase;
+  text-align: left;
+  border: 1px dashed black;
+  padding: 5px;
+  @media @mobile {
+    font-size: 1.3em;
+    margin: 15px;
+    padding: 3px;
+    text-align: center;
+  }
 }
 
 .u-container-intro p {
@@ -39,4 +48,7 @@
   font-weight: 100;
   text-transform: uppercase;
   color: @brand-blue;
+  @media @mobile {
+    font-size: 1em;
+  }
 }
