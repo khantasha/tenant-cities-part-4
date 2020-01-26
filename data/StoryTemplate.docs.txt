@@ -1,0 +1,37 @@
+headline: A Pittsburgh-area test case in working across political boundaries to address flooding
+author: Oliver Morrison
+date: Jan. 23, 2020
+
+feature_img.src: ./assets/story-images/PUBLICSOURCE-flooding/flooding-saw-mill-run-creek.jpg
+alt: #
+series: THE TRUE COST OF FINES AND FEES
+blurb: something here.
+[+sections]
+Anthony Wolkiewicz had his picture <span class="tooltip-style" title="Short for user experience" rel="tooltip">UX</span> with Fred Rogers while working at WQED in 1977. 
+Rogers made a special point to ask about Wolkiewicz’s youngest son. “Who is this? I don’t remember him in my neighborhood,” Wolkiewicz remembers him saying in the same voice he used on Mister Rogers’ Neighborhood.
+It’s sheer luck that Wolkiewicz still has that photo: he lost many of his cherished photographs when his basement flooded in June 2017. More than 2 inches of rain fell in an hour, he said, and Saw Mill Run Creek behind his house “became a raging rapids.”
+{.subhed}
+text: At vero eos et.
+{}
+
+“It crested over its banks, and I got 4 feet of water in my basement,” Wolkiewicz, 65, recalled.
+He watched as a television was carried along the stream behind his house. The street in front of his house flooded, too, so water was pouring in from both directions. 
+“It’s like if a dam was up the road and someone opened the floodgates. Up it came and over the bank, and done deal,” he said. Insurance money covered his major appliances but not many of his other smaller items, including his electronics, which filled a dumpster. He estimates he lost $20,000 worth of items. The flood water was mixed with sewage, so his five nephews helped to spray the entire basement down with bleach water. He was without air conditioning for two weeks, which exacerbated a breathing condition.
+{.pullquote}
+text: “It’s like if a dam was up the road and someone opened the floodgates.”
+{}
+Wolkiewicz bought his home along Provost Road in the Pittsburgh neighborhood of Overbrook in 2011 for about $34,000. He said his neighbors told him then that flooding wasn’t a big problem. But in June 2018, his house flooded again. 
+Now when it rains, he stays home to pile sand bags and make sure debris from the flooding in his basement doesn’t block up the sewage drain. 
+More rain has fallen in the Pittsburgh area over the last two years than at any other time in recorded history. Two of these storms have resulted in deaths in the past decade, as drivers were caught on roadways that flooded. 
+The area where Wolkiewicz lives along Saw Mill Run in the South Hills is one of the worst in the Pittsburgh region for flood risk. But it’s not the only area. Flooding has become pervasive, with massive damage to the suburbs of Bethel Park and Upper St. Clair and whole sections of towns like Etna and Millvale. 
+Stories like Wolkiewicz’s have become common across the region.
+Wolkiewicz could build a wall in his backyard, he said, but that would just push the flooding down into his neighbor’s yard. That’s the same problem facing local boroughs and agencies like the Pittsburgh Water and Sewer Authority [PWSA]. If you stop flooding in one location, how do you create a permanent fix that doesn’t just make rushing water your neighbor’s problem? 
+*\*The Heinz Endowments also provides funding to PublicSource.*
+
+*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter @ORMorrison.*
+
+*This story was fact-checked by Sierra Smith.*
+
+*Good River: Stories of the Ohio is a series about the environment, economy and culture of the Ohio River watershed, produced by seven nonprofit newsrooms. To see more, please visit [ohiowatershed.org](https://www.ohiowatershed.org/).*
+
+[]
