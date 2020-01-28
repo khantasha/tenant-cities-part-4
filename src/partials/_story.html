@@ -42,7 +42,7 @@
       <div class="expander-container">
         <h1><%= section.value.title %></h1>
           <div class="spoiler2">
-          <p class="hidden-text">
+          <p class="hidden-text2">
             <%= section.value.text %>
           </p>
         </div>
@@ -129,24 +129,24 @@
 
         <article>
           <div class='step' data-step='1'>
-            <p>Something about the lead offense would go here and it would be so great we'd all cry.</p>
+            <p><%= section.value.text1 %></p>
           </div>
           <div class='step' data-step='2'>
-            <p>Something about the fine would go here and it would be so great we'd all cry.</p>
+            <p><%= section.value.text2 %></p>
           </div>
           <div class='step' data-step='3'>
-            <p>Something about the fees would go here and it would be so great we'd all cry.</p>
+            <p><%= section.value.text3 %></p>
           </div>
           <div class='step' data-step='4'>
-            <p>Something about the total would go here and it would be so great we'd all cry.</p>
+            <p><%= section.value.text4 %></p>
           </div>
         </article>
 
         <figure>
-          <img id='photo1' src="./assets/images/offense.jpg" alt="map slide 1" class='is-visible'>
-          <img id='photo2' src="./assets/images/fine.jpg" alt="map slide 2">
-          <img id='photo3' src="./assets/images/fees.jpg" alt="map slide 3">
-          <img id='photo4' src="./assets/images/totals.jpg" alt="map slide 3">
+          <img id='photo1' src="<%= section.value.img1 %>" alt="<%= section.value.alt1 %>" class='is-visible'>
+          <img id='photo2' src="<%= section.value.img2 %>" alt="<%= section.value.alt2 %>">
+          <img id='photo3' src="<%= section.value.img3 %>" alt="<%= section.value.alt3 %>">
+          <img id='photo4' src="<%= section.value.img4 %>" alt="<%= section.value.alt4 %>">
         </figure>
 
       </section>
