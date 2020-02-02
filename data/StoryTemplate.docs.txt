@@ -1,0 +1,103 @@
+[+sections]
+Lorem ipsum dolor sit am, <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Id semper risus in hendrerit gravida rutrum quisque. Libero volutpat sed cras ornare arcu. Commodo ullamcorper a lacus vestibulum sed arcu. Enim nunc faucibus a pellentesque sit amet. Tincidunt praesent semper feugiat nibh sed pulvinar. 
+Magna eget est lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit amet. Blandit cursus risus at ultrices. Ut <span class="tooltip-style" title="definition goes here" rel="tooltip">porttitor</span> leo a diam sollicitudin tempor id eu nisl. Sed tempus urna et pharetra pharetra massa massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Elit duis tristique sollicitudin nibh. Metus aliquam eleifend mi in nulla posuere sollicitudin. Eget mi proin sed libero enim sed faucibus. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget mi proin sed libero enim sed faucibus. Netus et malesuada fames ac.
+{.expander1}
+title: Solution: Headline here
+text: Ut porttitor leo a diam sollicitudin tempor id eu nisl. Sed tempus urna et pharetra pharetra massa massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Elit duis tristique sollicitudin nibh. Metus aliquam eleifend mi in nulla posuere sollicitudin. Eget mi proin sed libero enim sed faucibus. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget mi proin sed libero enim sed faucibus. Netus et malesuada fames ac
+{}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Id semper risus in hendrerit gravida rutrum quisque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed <span class="tooltip-style" title="definition goes here" rel="tooltip">enim</span> ut sem viverra. Id semper risus in hendrerit gravida rutrum quisque.
+Cras ornare arcu dui vivamus arcu felis. Sagittis orci a scelerisque purus semper eget duis at tellus. Adipiscing diam donec adipiscing tristique risus. Ullamcorper velit sed ullamcorper morbi. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa massa ultricies mi quis. Porttitor massa id neque aliquam vestibulum morbi blandit. 
+Molestie at elementum eu facilisis sed. Egestas sed sed risus pretium quam vulputate dignissim. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Elit sed vulputate mi sit <span class="tooltip-style" title="definition goes here" rel="tooltip">amet</span> mauris. Proin gravida hendrerit lectus a. Gravida in fermentum et sollicitudin ac orci. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales.
+{.subhed}
+text: Subhed
+{}
+Hac habitasse platea dictumst vestibulum rhoncus est. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Arcu non odio euismod lacinia. Neque laoreet suspendisse interdum consectetur libero. Egestas sed tempus urna et pharetra. 
+Non blandit massa enim nec dui nunc mattis enim ut. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Eu sem integer vitae justo eget magna fermentum <span class="tooltip-style" title="definition goes here" rel="tooltip">iaculis</span> eu. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae sapien pellentesque habitant morbi tristique. Vitae sapien pellentesque habitant morbi.
+{.pullquote}
+text: “Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae sapien pellentesque habitant morbi tristique. Vitae sapien pellentesque habitant morbi.”
+{}
+Odio ut sem nulla pharetra diam. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. At consectetur lorem donec massa sapien faucibus. Id faucibus nisl tincidunt eget nullam non nisi est. Nisi est sit amet facilisis. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Quis vel eros donec ac odio tempor. 
+Tellus mauris a diam maecenas sed enim ut sem viverra. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Vel eros donec ac odio tempor orci dapibus ultrices. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Mattis enim ut tellus elementum sagittis vitae et. Odio ut sem nulla pharetra diam sit amet.
+Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Purus sit amet luctus venenatis lectus magna fringilla urna. Volutpat odio facilisis mauris sit amet massa vitae. At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+{.scrollama1}
+img1: ./assets/images/story-1/1.jpg
+img2: ./assets/images/story-1/2.jpg
+img3: ./assets/images/story-1/3.jpg
+img4: ./assets/images/story-1/4.jpg
+alt1: #
+alt2: #
+alt3: #
+alt4: #
+text1: At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+text2: At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+text3: At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+text4: At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+{}
+In hendrerit gravida rutrum quisque non tellus orci. Id aliquet lectus proin nibh. Sagittis purus sit amet volutpat. Suscipit adipiscing bibendum est ultricies integer quis auctor. Tempor commodo ullamcorper a lacus vestibulum sed arcu. 
+Venenatis cras sed felis eget velit aliquet sagittis. Velit aliquet sagittis id consectetur purus ut. Pharetra diam sit amet nisl suscipit adipiscing. Ultrices eros in cursus turpis massa. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. Nam at lectus urna duis.
+{.subhed}
+text: Subhed
+{}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Id semper risus in hendrerit gravida rutrum quisque. Libero volutpat sed cras ornare arcu. Commodo ullamcorper a lacus vestibulum sed arcu. Enim nunc faucibus a pellentesque sit amet. Tincidunt praesent semper feugiat nibh sed pulvinar. 
+Magna eget est lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit amet. Blandit cursus risus at ultrices. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Sed tempus urna et pharetra pharetra <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> massa massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Elit duis tristique sollicitudin nibh. Metus aliquam eleifend mi in nulla posuere sollicitudin. Eget mi proin sed libero enim sed faucibus. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget mi proin sed libero enim sed faucibus. Netus et malesuada fames ac.
+{.expander2}
+title: Solution: Headline here
+text: Ut porttitor leo a diam sollicitudin tempor id eu nisl. Sed tempus urna et pharetra pharetra massa massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Elit duis tristique sollicitudin nibh. Metus aliquam eleifend mi in nulla posuere sollicitudin. Eget mi proin sed libero enim sed faucibus. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget mi proin sed libero enim sed faucibus. Netus et malesuada fames ac
+{}
+Cras ornare arcu dui vivamus arcu felis. Sagittis orci a scelerisque purus semper eget duis at tellus. Adipiscing diam donec adipiscing tristique risus. Ullamcorper velit sed ullamcorper morbi. Turpis nunc eget lorem dolor sed viverra ipsum <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> nunc. Massa massa ultricies mi quis. Porttitor massa id neque aliquam vestibulum morbi blandit. 
+Molestie at elementum eu facilisis sed. Egestas sed sed risus pretium quam vulputate dignissim. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Elit sed vulputate mi sit amet mauris. Proin gravida hendrerit lectus a. Gravida in fermentum et sollicitudin ac orci. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales.
+Hac habitasse platea dictumst vestibulum rhoncus est. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Arcu non odio euismod lacinia. 
+Neque laoreet suspendisse interdum consectetur libero. Egestas sed tempus urna et pharetra. Non blandit massa enim nec dui nunc mattis enim ut. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Eu sem integer vitae justo <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> eget magna fermentum iaculis eu. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae sapien pellentesque habitant morbi tristique. Vitae sapien pellentesque habitant morbi.
+Odio ut sem nulla pharetra diam. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. At consectetur lorem donec massa sapien faucibus. Id faucibus nisl tincidunt eget nullam non nisi est. Nisi est sit amet facilisis. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Quis vel eros donec ac odio tempor.
+{.inline-img}
+img: ./assets/images/story-1/3.jpg
+alt: Something here.
+caption:  Caption goes here. (Photographer/Outlet)
+{}
+Tellus mauris a diam maecenas sed enim ut sem viverra. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Vel eros donec ac odio tempor orci dapibus ultrices. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Mattis enim ut tellus elementum sagittis vitae et. Odio ut sem nulla pharetra diam sit amet. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Purus sit amet luctus venenatis lectus magna fringilla urna. Volutpat odio facilisis mauris sit amet massa vitae. At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+In hendrerit gravida rutrum quisque non tellus orci. Id aliquet lectus proin nibh. Sagittis purus sit amet volutpat. Suscipit adipiscing bibendum est ultricies integer quis auctor. Tempor commodo ullamcorper a lacus <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> vestibulum sed arcu. Venenatis cras sed felis eget velit aliquet sagittis. Velit aliquet sagittis id consectetur purus ut. Pharetra diam sit amet nisl suscipit adipiscing. Ultrices eros in cursus turpis massa. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. Nam at lectus urna duis.
+{.pullquote}
+text: “Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae sapien pellentesque habitant morbi tristique.”
+{}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem viverra. Id semper risus in hendrerit gravida rutrum <span class="tooltip-style" title="definition goes here" rel="tooltip">consectetur</span> quisque. Libero volutpat sed cras ornare arcu. Commodo ullamcorper a lacus vestibulum sed arcu. 
+Enim nunc faucibus a pellentesque sit amet. Tincidunt praesent semper feugiat nibh sed pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit amet.
+Blandit cursus risus at ultrices. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Sed tempus urna et pharetra pharetra massa massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Elit duis tristique sollicitudin nibh. Metus aliquam eleifend mi in nulla posuere sollicitudin. Eget mi proin sed libero enim sed faucibus. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget mi proin sed libero enim sed faucibus. Netus et malesuada fames ac.
+{.scrollama3}
+img1: ./assets/images/offense.jpg
+img2: ./assets/images/fine.jpg
+img3: ./assets/images/fees.jpg
+img4: ./assets/images/fees.jpg
+alt1: #
+alt2: #
+alt3: #
+alt4: #
+text1: Something about the lead offense would go here.
+text2: Something about the fine being only <b>$300</b> would go here.
+text3: Something about the fees being <b>$XXX</b> would go here.
+text4: Something about the total being <b>$XXX</b> would go here.
+{}
+Cras ornare arcu dui vivamus arcu felis. Sagittis orci a scelerisque purus semper eget duis at tellus. Adipiscing diam donec adipiscing tristique risus. Ullamcorper velit sed ullamcorper morbi. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa massa ultricies mi quis. Porttitor massa id neque aliquam vestibulum morbi blandit. 
+Molestie at elementum eu facilisis sed. Egestas sed sed risus pretium quam vulputate dignissim. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Elit sed vulputate mi sit amet mauris. Proin gravida hendrerit lectus a. Gravida in fermentum et sollicitudin ac orci. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales.
+{.subhed}
+text: Subhed
+{}
+Hac habitasse platea dictumst vestibulum rhoncus est. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Arcu non odio euismod lacinia. Neque laoreet suspendisse interdum consectetur libero. Egestas sed tempus urna et pharetra. 
+Non blandit massa enim nec dui nunc mattis enim ut. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Eu sem integer vitae justo eget magna fermentum iaculis eu. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae sapien pellentesque habitant morbi tristique. Vitae sapien pellentesque habitant morbi.
+Odio ut sem nulla pharetra diam. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. At consectetur lorem donec massa sapien faucibus. 
+Id faucibus nisl tincidunt eget nullam non nisi est. Nisi est sit amet facilisis. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Quis vel eros donec ac odio tempor.
+{.hero}
+img: ./assets/images/story-1/2.jpg
+alt: Something here.
+caption: Caption goes here. (Photographer/Outlet)
+{}
+Tellus mauris a diam maecenas sed enim ut sem viverra. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Vel eros donec ac odio tempor orci dapibus ultrices. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Mattis enim ut tellus elementum sagittis vitae et. Odio ut sem nulla pharetra diam sit amet. 
+Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Purus sit amet luctus venenatis lectus magna fringilla urna. Volutpat odio facilisis mauris sit amet massa vitae. At quis risus sed vulputate odio. Enim diam vulputate ut pharetra sit amet aliquam id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Quis vel eros donec ac.
+In hendrerit gravida rutrum quisque non tellus orci. Id aliquet lectus proin nibh. Sagittis purus sit amet volutpat. Suscipit adipiscing bibendum est ultricies integer quis auctor. Tempor commodo ullamcorper a lacus vestibulum sed arcu. Venenatis cras sed felis eget velit aliquet sagittis. 
+Velit aliquet sagittis id consectetur purus ut. Pharetra diam sit amet nisl suscipit adipiscing. Ultrices eros in cursus turpis massa. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. Nam at lectus urna duis.
+*Juliette Rihl is a reporter for PublicSource. She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
+
+*This story was fact-checked by X.*
+
+[]

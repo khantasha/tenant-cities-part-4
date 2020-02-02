@@ -5,37 +5,19 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body id="homepage">
-  <section>
+
     <%= t.include("partials/_main_nav.html") %>
-  </section>
 
-  <section>
     <%= t.include("partials/_intro-top.html") %>
-  </section>
 
-  <section>
     <%= t.include("partials/_intro-about.html") %>
-  </section>
 
-  <section>
-    <%= t.include("partials/_story.html") %>
-  </section>
+    <%= t.include("partials/_story.html", {'story': archieml.StoryTemplate}) %>
 
-  <section>
-    <%= t.include("partials/_scrollama-1.html") %>
-  </section>
+    <div style="padding-bottom: 2em;"></div>
 
-  <section>
-    <%= t.include("partials/_scrollama-3.html") %>
-  </section>
-
-  <section>
-    <%= t.include("partials/_story.html") %>
-  </section>
-
-  <section>
-    <%= t.include("partials/_footer.html") %>
-  </section>
+  <!-- Footer -->
+  <%= t.include("partials/_footer.html") %>
 
   <script src="app.js" async></script>
   <%= t.include("partials/_analytics.html") %>

@@ -1,12 +1,12 @@
 {
   "s3": {
     "stage": {
-      "bucket": "stage-apps.npr.org",
-      "path": "cash-register-justice-master"
+      "bucket": "",
+      "path": ""
     },
     "live": {
-      "bucket": "apps.npr.org",
-      "path": "cash-register-justice-master"
+      "bucket": "",
+      "path": ""
     }
   },
   "styles": {
@@ -20,7 +20,9 @@
   "url": "",
   "image": "assets/logo.png",
   "sheets": [],
-  "docs": [],
+  "docs": [
+    "1Uo4v0DPIRXlQuhPz_9QFfidol1XI3EaagcJkzEOW19I"
+  ],
   "embedded": true,
   "production": false
 }

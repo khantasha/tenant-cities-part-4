@@ -1,12 +1,16 @@
 .lead-wrapper {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   height: 100vh;
   width: 100%;
   position: relative;
   overflow: hidden;
   background: cover;
   background-color: black;
+  @media @mobile {
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr;
+  }
 }
 
 .lead-photo {
@@ -16,6 +20,9 @@
   height: 100vh;
   width: 50vw;
   object-fit: cover;
+  @media @mobile {
+    width: 100vw;
+  }
 }
 
 .lead-headline {
@@ -26,6 +33,9 @@
   object-fit: cover;
   align-items: center;
   justify-content: center;
+  @media @mobile {
+    width: 100vw;
+  }
 }
 
 .headline-text {
