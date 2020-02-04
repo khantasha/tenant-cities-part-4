@@ -198,7 +198,7 @@ if(homepage){
 
       scroller4.setup({
     		step: '#scrolly4 article .step',
-    		offset: 0.68,
+    		offset: 0.98,
     		debug: false,
     	})
     		.onStepEnter(handleStepEnter4)

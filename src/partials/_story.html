@@ -149,27 +149,28 @@
     <!-- Scrollama 4 -->
     <% }else if(section.type == "scrollama4"){ %>
       </div>
+
       <section id='scrolly4'>
 
         <figure>
-          <img id='picture1' src="/assets/images/offense.jpg" alt="map slide 1" class='is-visible'>
-          <img id='picture2' src="/assets/images/fine.jpg" alt="map slide 2">
-          <img id='picture3' src="/assets/images/fees.jpg" alt="map slide 3">
-          <img id='picture4' src="/assets/images/totals.jpg" alt="map slide 3">
+          <img id='picture1' src="<%= section.value.img1 %>" alt="<%= section.value.alt1 %>" class='is-visible'>
+          <img id='picture2' src="<%= section.value.img2 %>" alt="<%= section.value.alt2 %>">
+          <img id='picture3' src="<%= section.value.img3 %>" alt="<%= section.value.alt3 %>">
+          <img id='picture4' src="<%= section.value.img4 %>" alt="<%= section.value.alt4 %>">
         </figure>
 
       	<article>
       		<div class='step' data-step='1'>
-      			<p>Blah blha blah</p>
+      			<p><%= section.value.text1 %></p>
       		</div>
       		<div class='step' data-step='2'>
-      			<p>The Ohio River watershed covers 205,000 square miles across 15 states: Pennsylvania, Ohio, Kentucky, West Virginia, Indiana, Illinois, Tennessee, New York, Virginia, Maryland, Georgia, Mississippi, Alabama, North Carolina and South Carolina.</p>
+      			<p><%= section.value.text2 %></p>
       		</div>
       		<div class='step' data-step='3'>
-      			<p>The Ohio is commonly cited as the most polluted river in the United States.</p>
+      			<p><%= section.value.text3 %></p>
       		</div>
       		<div class='step' data-step='4'>
-      			<p>The river supplies about five million people with drinking water.</p>
+      			<p><%= section.value.text4 %></p>
       		</div>
       	</article>
 
