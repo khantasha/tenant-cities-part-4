@@ -4,12 +4,12 @@ Maleah Hartnett sat in the lobby of the McKees Rocks District Courtroom, crying 
 
 Hartnett, who’d just had a <span class="tooltip-style" title="a hearing to determine the defendant's ability to pay" rel="tooltip">payment determination hearing</span> for the 2005 citations, hadn’t realized the case was still active. Not until she was in court for a separate case in the fall, and a constable walked up to her with a 10-year-old warrant for her arrest related to the unpaid citations. He gave her two options: Pay the money, or go to jail.
 
-Hartnett lives in public housing in McKees Rocks and receives food stamps. She has no income. “They want people to come up with money,” she said after the Dec. 18 hearing. “I have no money.”
+Hartnett lives in public housing in McKees Rocks and receives food stamps. Because of health problems, she isn't able to work and is in the process of applying for disability benefits. She has no income. “They want people to come up with money,” she said after the Dec. 18 hearing. “I have no money.”
 
 {.scrollama1}
 img1: ./assets/images/story-1/IMG_9776.jpg
-alt1: Maleah Hartnet tears up while explaining her struggles in the court system due to fines and costs from a traffic citation.
-text1: Maleah Hartnet tears up while explaining her struggles in the court system due to fines and costs from a traffic citation.
+alt1: Maleah Hartnett tears up while explaining her struggle to pay off two traffic citations from nearly 15 years ago.
+text1: Maleah Hartnett tears up while explaining her struggle to pay off two traffic citations from nearly 15 years ago.
 {}
 Every week, dozens of payment determination hearings like Hartnett’s are held throughout Allegheny County for people with outstanding fines and fees on offenses ranging from serious crimes to traffic tickets.
 
@@ -107,7 +107,6 @@ In some cases, using fines and fees as a revenue source has put pressure on poli
 title: Solution
 text: In San Francisco and Texas, fine and fee reforms have increased court revenue.<br><br>The Financial Justice Project in San Francisco led to millions of dollars of fines and fees debt being forgiven in the city and county. Since 2016, dozens of fines and fees have been eliminated, adjusted or discounted based on one’s ability to pay. The number of people paying their parking tickets has since quadrupled, and collections revenue has increased dramatically. The project later partnered with the Fines and Fees Justice Center and PolicyLink to create a national network called Cities and Counties for Fine and Fee Justice, which also provides grants to cities and counties working on reforms.<br><br>Under 2017 reforms, Texas judges must waive or reduce fines or fees in <span class="tooltip-style" title="cases for offenses that are only punishable by fines or monetary sanctions, not jail time" rel="tooltip">fine-only</span> cases if a person isn’t able to pay in full. They must also allow the individual to set up a payment plan and offer community service, including vocational training or getting mental health treatment, as an alternative to payment. In 2018, court collections increased by about 7%.<br><br>
 {}
-
 Boni sees how a conflict of interest could potentially exist, but he said he doesn’t think it influences the decisions of his colleagues in Allegheny County. “In practice, I don’t see it as a problem,” he said. 
 
 State Rep. Dan Miller, D-Mt. Lebanon, is a former public defender. Like Briggs, he said the justice system should be funded by taxes, not by people in the court system. “In my opinion, you are eroding that trust and that sense of justice by putting that appearance of a conflict of interest, whether or not it is,” he said.
@@ -119,5 +118,8 @@ By January, she had already fallen behind on her payment plan. Her daughter was 
 *The next story in The True Cost of Court Debt series will delve into court fees — and how they can drastically outweigh the fines they accompany. Check back on Feb. 13 or sign up for [the PublicSource newsletter](https://www.publicsource.org/newsletter-signup/) to make sure you don't miss it.*
 
 *Juliette Rihl is a reporter for PublicSource. Juliette is a Justice Reporting Fellow for the 2019 John Jay Fellowship on “Cash Register Justice.” She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
+*Photos by PublicSource Visuals Producer Jay Manning.*
+
+*Design and Development by PublicSource Interactives & Design Editor Natasha Vicens.*
 
 []
