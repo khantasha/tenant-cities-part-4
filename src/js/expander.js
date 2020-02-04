@@ -71,3 +71,40 @@ jObj2.children('.read-more2').click ( function() {
 });
 
 }
+
+// expander #3
+readMore3( $('.spoiler3'), 6);
+
+function readMore3(jObj3, lineNum3) {
+if ( isNaN(lineNum3) ) {
+  lineNum3 = 5;
+}
+var go3 = new ReadMore3 (jObj3, lineNum3);
+}
+
+//class
+function ReadMore3(_jObj3, lineNum3) {
+var READ_MORE_LABEL3 = 'EXPAND';
+var HIDE_LABEL3 = 'MINIMIZE';
+
+var jObj3 = _jObj3;
+var textMinHeight3 = ''+ (parseInt(jObj3.children('.hidden-text3').css('line-height'),10)*lineNum3) +'px';
+var textMaxHeight3 = ''+jObj3.children('.hidden-text3').css('height');
+
+jObj3.children('.hidden-text3').css('height', ''+ textMaxHeight3);
+jObj3.children('.hidden-text3').css( 'transition', 'height .5s');
+jObj3.children('.hidden-text3').css('height', ''+ textMinHeight3);
+
+jObj3.append ('<button class="read-more3 btn">'+READ_MORE_LABEL3+'</button>');
+
+jObj3.children('.read-more3').click ( function() {
+  if (jObj3.children('.hidden-text3').css('height') === textMinHeight3) {
+    jObj3.children('.hidden-text3').css('height', ''+textMaxHeight3);
+    jObj3.children('.read-more3').html(HIDE_LABEL3).addClass('active3');
+  } else {
+    jObj3.children('.hidden-text3').css('height', ''+textMinHeight3);
+    jObj3.children('.read-more3').html(READ_MORE_LABEL3).removeClass('active3');
+  }
+});
+
+}

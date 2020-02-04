@@ -49,6 +49,19 @@
       </div>
     </div>
 
+    <!-- Expander 2 -->
+    <% }else if(section.type == "expander3"){ %>
+    <div class="u-pull-right">
+      <div class="expander-container">
+        <h1><%= section.value.title %></h1>
+          <div class="spoiler3">
+          <p class="hidden-text3">
+            <%= section.value.text %>
+          </p>
+        </div>
+      </div>
+    </div>
+
     <!-- Hero image + caption -->
     <% }else if(section.type == "hero"){ %>
       </div>
@@ -68,8 +81,6 @@
         <figure>
       		<img id='img1' src="<%= section.value.img1 %>" alt="<%= section.value.alt1 %>" class='is-visible'>
       		<img id='img2' src="<%= section.value.img2 %>" alt="<%= section.value.alt2 %>">
-      		<img id='img3' src="<%= section.value.img3 %>" alt="<%= section.value.alt3 %>">
-      		<img id='img4' src="<%= section.value.img4 %>" alt="<%= section.value.alt4 %>">
       	</figure>
 
       	<article>
@@ -78,12 +89,6 @@
       		</div>
       		<div class='step' data-step='2'>
       			<p><%= section.value.text2 %></p>
-      		</div>
-      		<div class='step' data-step='3'>
-      			<p><%= section.value.text3 %></p>
-      		</div>
-      		<div class='step' data-step='4'>
-      			<p><%= section.value.text4 %></p>
       		</div>
       	</article>
 

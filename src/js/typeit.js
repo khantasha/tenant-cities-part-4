@@ -6,6 +6,6 @@ autoStart: false
 
 $('.type-it-pullquote').typeIt({
 strings: 'This is a simple string.',
-speed: 60,
+speed: 50,
 autoStart: false
 });
