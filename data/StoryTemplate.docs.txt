@@ -55,8 +55,8 @@ Yet several judges, including King, agreed that the same cost can have a drastic
 
 {.hero}
 img: ./assets/images/story-1/IMG_1826.JPG
-alt: Judge Bruce J. Boni, Esq.  (photo by Jay Manning/PublicSource)
-caption: Judge Bruce J. Boni, Esq.  (photo by Jay Manning/PublicSource)
+alt: Magisterial District Judge Bruce Boni of McKees Rocks. (Photo by Jay Manning/PublicSource)
+caption: Magisterial District Judge Bruce Boni of McKees Rocks. (Photo by Jay Manning/PublicSource)
 {}
 Boni, who presided over Hartnett’s case, said he and other Allegheny County magistrates consider the severity of the offense, a person’s financial situation and the associated fees before imposing a fine. Fine and fee amounts are determined by state law. While fee amounts are set, certain fines have a range, giving judges some discretion.
 
@@ -105,7 +105,7 @@ In some cases, using fines and fees as a revenue source has put pressure on poli
 
 {.expander3}
 title: Solution
-text: In San Francisco and Texas, fine and fee reforms have increased court revenue.<br><br>The Financial Justice Project in San Francisco led to millions of dollars of fines and fees debt being forgiven in the city and county. Since 2016, dozens of fines and fees have been eliminated, adjusted or discounted based on one’s ability to pay. The number of people paying their parking tickets has since quadrupled, and collections revenue has increased dramatically. The project later partnered with the Fines and Fees Justice Center and PolicyLink to create a national network called Cities and Counties for Fine and Fee Justice, which also provides grants to cities and counties working on reforms.<br><br>Under 2017 reforms, Texas judges must waive or reduce fines or fees in <span class="tooltip-style" title="cases for offenses that are only punishable by fines or monetary sanctions, not jail time" rel="tooltip">fine-only</span> cases if a person isn’t able to pay in full. They must also allow the individual to set up a payment plan and offer community service, including vocational training or getting mental health treatment, as an alternative to payment. In 2018, court collections increased by about 7%.<br><br>
+text: In San Francisco and Texas, fine and fee reforms have increased court revenue.<br><br>The Financial Justice Project in San Francisco led to millions of dollars of fines and fees debt being forgiven in the city and county. Since 2016, dozens of fines and fees have been eliminated, adjusted or discounted based on one’s ability to pay. The number of people paying their parking tickets has since quadrupled, and collections revenue has increased dramatically. The project later partnered with the Fines and Fees Justice Center and PolicyLink to create a national network called Cities and Counties for Fine and Fee Justice, which also provides grants to cities and counties working on reforms.<br><br>Under 2017 reforms, Texas judges must waive or reduce fines or fees in <span class="tooltip-style" title="offenses that are only punishable by fines or monetary sanctions, not jail time" rel="tooltip">fine-only</span> cases if a person isn’t able to pay in full. They must also allow the individual to set up a payment plan and offer community service, including vocational training or getting mental health treatment, as an alternative to payment. In 2018, court collections increased by about 7%.<br><br>
 {}
 Boni sees how a conflict of interest could potentially exist, but he said he doesn’t think it influences the decisions of his colleagues in Allegheny County. “In practice, I don’t see it as a problem,” he said. 
 
@@ -120,6 +120,6 @@ By January, she had already fallen behind on her payment plan. Her daughter was 
 *Juliette Rihl is a reporter for PublicSource. Juliette is a Justice Reporting Fellow for the 2019 John Jay Fellowship on “Cash Register Justice.” She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
 *Photos by PublicSource Visuals Producer Jay Manning.*
 
-*Design and Development by PublicSource Interactives & Design Editor Natasha Vicens.*
+*Design and development by PublicSource Interactives & Design Editor Natasha Vicens.*
 
 []
