@@ -6,16 +6,21 @@ Hartnett, who’d just had a <span class="tooltip-style" title="a hearing to det
 
 Hartnett lives in public housing in McKees Rocks and receives food stamps. She has no income. “They want people to come up with money,” she said after the Dec. 18 hearing. “I have no money.”  
 
-Every week, dozens of payment determination hearings like Hartnett’s are held throughout Allegheny County for people with outstanding fines and fees on offenses ranging from serious crimes to traffic tickets.
-
-Even for something as minor as running a red light or driving with expired inspection stickers, not paying off the citation can result in an arrest warrant, a suspended license and, in extreme cases, jail time. 
-
 {.hero}
 img: ./assets/images/story-1/IMG_9776.jpg
 alt: Maleah Hartnet tears up while explaining her struggles in the court system due to fines and costs from a traffic citation (Photo by Jay Manning/ PublicSource)
 caption: Maleah Hartnet tears up while explaining her struggles in the court system due to fines and costs from a traffic citation (Photo by Jay Manning/ PublicSource)
 {}
+
+Every week, dozens of payment determination hearings like Hartnett’s are held throughout Allegheny County for people with outstanding fines and fees on offenses ranging from serious crimes to traffic tickets.
+
+Even for something as minor as running a red light or driving with expired inspection stickers, not paying off the citation can result in an arrest warrant, a suspended license and, in extreme cases, jail time. 
+
 Throughout the county, there is more than $350 million in unpaid court debt on roughly half a million cases dating back to 1970, according to the Administrative Office of Pennsylvania Courts [AOPC]. The debt includes fines and fees left unpaid by people of all income levels. 
+
+{.pullquote}
+text:  “They want people to come up with money. I have no money.”  
+{}
 
 Revenue from fines and fees funds multiple levels of government, due in large part to lawmakers imposing court fees as an alternative to raising taxes. 
 
