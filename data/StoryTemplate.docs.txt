@@ -1,5 +1,4 @@
 [+sections]
-
 Maleah Hartnett sat in the lobby of the McKees Rocks District Courtroom, crying as her 21-year-old daughter carried a small pouch to the clerk’s counter. She emptied the money inside and counted it out — $16.50. It was the first installment of her mother's payment plan for an outstanding $206 bill for two minor traffic citations from almost 15 years ago. “You’re taking people that have nothing and demanding that they pay something,” 45-year-old Hartnett said.
 
 Hartnett, who’d just had a <span class="tooltip-style" title="a hearing to determine the defendant's ability to pay" rel="tooltip">payment determination hearing</span> for the 2005 citations, hadn’t realized the case was still active. Not until she was in court for a separate case in the fall, and a constable walked up to her with a 10-year-old warrant for her arrest related to the unpaid citations. He gave her two options: Pay the money, or go to jail.
@@ -32,7 +31,7 @@ Over the past six months, PublicSource spoke to people throughout Allegheny Coun
 One 33-year-old woman from South Side is slowly paying off four traffic tickets from 2009. She estimates she still owes $1,100.
 
 {.expander1}
-title: Solution
+title: Solution: When to waive
 text: Pennsylvania Court of Common Pleas judges can waive fines and fees. But the rules are less clear for Magisterial District Court judges [MDJs], who preside over the lower courts. Some judges believe they have the authority to waive fines and fees. Others don’t.<br><br>Allegheny County President Judge Kim Clark is considering creating a court order allowing MDJs to waive fines and fees and close out a case if someone is indigent, according to Angharad Stock, the deputy administrator of special courts for Allegheny County. It would only apply to traffic and <span class="tooltip-style" title="low-level cases such as harassment or disorderly conduct charges" rel="tooltip">summary offenses</span>.
 {}
 A 46-year-old man who lives in the East End said he owes more than $20,000 in fines and fees related to low-level drug offenses. He is in long-term recovery and is working toward a degree in social work. His last arrest was in 2014.
@@ -77,7 +76,7 @@ text2: If she falls behind on the monthly payments, her license will be automati
 In the past, keeping up with the payments was a challenge, Brown said. Financial struggles, including experiencing homelessness at one point, caused her to fall behind. She feels a sense of urgency to pay off the moving violations in particular. Pursuant to Pennsylvania law, if a person misses a payment for a moving violation and doesn’t notify the court ahead of time, the Pennsylvania Department of Transportation automatically suspends their license. The agency has suspended Brown’s license several times, making it harder for her to get to work and take her 10-year-old son to school in the East End.
 
 {.expander2}
-title: Solution
+title: Solution: Training judges
 text: In February 2019, state Rep. Dan Miller, D-Mt. Lebanon, introduced House Bill 389 to train MDJs on what to do when a defendant does not pay. The training is intended to help judges evaluate a defendant’s ability to pay, consider alternatives to financial payment and offer payment plans. “We need to provide some sort of guide rails in how you are assigning costs and fines,” he said.
 {}
 Finally, after almost two hours of waiting, she was summoned to the bench. 
@@ -104,7 +103,7 @@ While fines have been part of the criminal justice system for centuries, many fe
 In some cases, using fines and fees as a revenue source has put pressure on police departments and judges to increase collections. In 2015, the U.S. Department of Justice found that the Ferguson, Missouri, police department was [more focused on collecting revenue than ensuring public safety](https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf). The city anticipated 23% of its revenue coming from fines and fees that year, a proportion the department said “fundamentally compromised” the court. The collection practices, including what the Justice Department described as unconstitutional policing and unfair courts, disproportionately harmed Black people.
 
 {.expander3}
-title: Solution
+title: Solution: Factor in ability to pay
 text: In San Francisco and Texas, fine and fee reforms have increased court revenue.<br><br>The Financial Justice Project in San Francisco led to millions of dollars of fines and fees debt being forgiven in the city and county. Since 2016, dozens of fines and fees have been eliminated, adjusted or discounted based on one’s ability to pay. The number of people paying their parking tickets has since quadrupled, and collections revenue has increased dramatically. The project later partnered with the Fines and Fees Justice Center and PolicyLink to create a national network called Cities and Counties for Fine and Fee Justice, which also provides grants to cities and counties working on reforms.<br><br>Under 2017 reforms, Texas judges must waive or reduce fines or fees in <span class="tooltip-style" title="offenses that are only punishable by fines or monetary sanctions, not jail time" rel="tooltip">fine-only</span> cases if a person isn’t able to pay in full. They must also allow the individual to set up a payment plan and offer community service, including vocational training or getting mental health treatment, as an alternative to payment. In 2018, court collections increased by about 7%.<br><br>
 {}
 Boni sees how a conflict of interest could potentially exist, but he said he doesn’t think it influences the decisions of his colleagues in Allegheny County. “In practice, I don’t see it as a problem,” he said. 
