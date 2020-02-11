@@ -1,120 +1,112 @@
 [+sections]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet nisl purus in mollis nunc sed. Non consectetur a erat nam at. Dignissim sodales ut eu sem integer. Consectetur purus ut faucibus pulvinar. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Scelerisque viverra mauris in aliquam sem fringilla. Feugiat in fermentum posuere urna nec. Vitae justo eget magna fermentum iaculis eu. Phasellus egestas tellus rutrum tellus pellentesque. Id aliquet risus feugiat in ante metus dictum. Nibh tellus molestie nunc non blandit massa enim. Turpis egestas pretium aenean pharetra. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Purus gravida quis blandit turpis cursus in hac. Ut consequat semper viverra nam libero justo laoreet sit amet. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Risus ultricies tristique nulla aliquet. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit.
+In Pennsylvania, many traffic fines are as little as $25. But it can be hard to tell that from the court paperwork. The fine is just one of several itemized costs that can add up to well over $150. 
 
-Nulla posuere sollicitudin aliquam ultrices sagittis orci. Pretium lectus quam id leo in. Praesent tristique magna sit amet purus gravida quis blandit. Sed blandit libero volutpat sed cras ornare arcu. Arcu cursus vitae congue mauris rhoncus. Consequat semper viverra nam libero. Hendrerit dolor magna eget est lorem. In iaculis nunc sed augue lacus viverra vitae congue. At imperdiet dui accumsan sit amet nulla facilisi morbi. Sed cras ornare arcu dui vivamus. In aliquam sem fringilla ut morbi tincidunt. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Libero nunc consequat interdum varius sit amet. Malesuada nunc vel risus commodo. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.
+“It always makes me uncomfortable when I tell someone what their fine is, and they might smile and say ‘Thank you, your honor. I can pay that today,’ and then I say, ‘Well hold on, you’re gonna have court costs,’” McKees Rocks Magisterial District Judge Bruce Boni said. 
+
+Court costs, also known as fees or surcharges, on traffic and non-traffic offenses fund a number of government functions in Pennsylvania. Some are court-related, like the judiciary’s automated case management system. Many other fees are collected to fund statewide programs, like emergency medical services and youth diversionary programs. 
+
+While fines are punishment for an offense, fees are not meant to be punitive. Yet they often exceed the fine itself, in many cases costing several times more. “It’s counterintuitive,” Boni said. “You don’t pay at a restaurant more on the tip and the taxes than the cost of the food.”
+
+Pennsylvania Court of Common Pleas judges have the authority to waive court fines and costs. But at the Magisterial District Court level, which handles low-level cases, [the rules are less clear](/part-one.html).
+
+In 2018, Pennsylvania courts brought in $444 million in fines and fees. Of that money, $239 million went to the state, $201 million to local governments and $3.9 million to other entities like airports, parking authorities and libraries. Some court costs increase yearly based on the Consumer Price Index, a cost of living measure. Other surcharges are set by state statute and are not raised unless lawmakers amend the statute. In 2018 for example, lawmakers raised a surcharge that funds the judicial computer system and legal aid clinics from $10 to $22.
+
+Pennsylvania has been adding costs and surcharges to the justice system for years, state Sen. Lisa Baker, R-Luzerne, wrote in an email to PublicSource. According to Baker, there are two reasons: the belief that wrongdoers should contribute to the costs of the legal system and supportive services, and the need to generate state revenue beyond taxes. “Unless a court ruling would upend some aspect of this, it is hard to see support materializing for moving costs from those convicted of wrongdoing to taxpayers,” she wrote.
+
+According to Pittsburgh Magisterial District Judge Richard King, lawmakers are replacing taxes with court costs. “Legislators haven’t had the wherewithal to actually raise taxes on everybody,” he said. “It’s the adage: do you want to get a nickel from everyone, or do you want to get a quarter off of certain people?” 
+
+State Rep. Jake Wheatley, D-Hill District, is the Democratic chair of the House Finance Committee. He said the state legislature relies on “back-door” funding from fees instead of comprehensively funding the state budget with taxes. “When we talk about cutting things in the budget, you will see the fees, then, start getting higher,” he said. “It’s a legislative way to deal with stuff and not deal with stuff.”
+
+Below are breakdowns of the fine and the costs attached to two offenses.
 
 {.scrollama3}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
+img1: ./assets/images/story-2/scrolly-1/jpgs/offense.jpg
+img2: ./assets/images/story-2/scrolly-1/jpgs/fine.jpg
+img3: ./assets/images/story-2/scrolly-1/jpgs/fees.jpg
+img4: ./assets/images/story-2/scrolly-1/jpgs/total.jpg
+img5: ./assets/images/story-2/scrolly-2/jpgs/offense.jpg
+img6: ./assets/images/story-2/scrolly-2/jpgs/fine.jpg
+img7: ./assets/images/story-2/scrolly-2/jpgs/fees.jpg
+img8: ./assets/images/story-2/scrolly-2/jpgs/server-fees.jpg
+img9: ./assets/images/story-2/scrolly-2/jpgs/total.jpg
+img10: ./assets/images/story-2/scrolly-3/jpgs/categories.jpg
+img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
+img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
+img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
+alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+alt2: The fine for the offense is $25.
+alt3: The fees, costs and surcharges on the offense add up to $125.50…
+alt4: ...making the total amount charged $150.50.
+alt5: This court receipt is for disorderly conduct.
+alt6: The fine for the offense is $300.
+alt7: The fees, costs and surcharges on the offense add up to $165…
+alt8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling $160.70...
+alt9: ...making the total amount charged $625.70.
+alt10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+alt11: Access to Justice funds legal services for people who can’t otherwise afford them.
+alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
+alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+text2: The fine for the offense is <b>$25</b>.
+text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>…
+text4: ...making the total amount charged <b>$150.50</b>.
+text5: This court receipt is for disorderly conduct.
+text6: The fine for the offense is <b>$300</b>.
+text7: The fees, costs and surcharges on the offense add up to <b>$165</b>…
+text8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling <b>$160.70</b>...
+text9: ...making the total amount charged <b>$625.70</b>.
+text10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+text11: <b>Access to Justice</b> funds legal services for people who can’t otherwise afford them.
+text12: <b>Constable Education Training Act</b> funds basic training and certification for constables across Pennsylvania.
+text13: <b>Domestic Violence Compensation</b> funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
 {}
 {.scrollama4}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
+img1: ./assets/images/story-2/scrolly-1/jpgs/offense.jpg
+img2: ./assets/images/story-2/scrolly-1/jpgs/fine.jpg
+img3: ./assets/images/story-2/scrolly-1/jpgs/fees.jpg
+img4: ./assets/images/story-2/scrolly-1/jpgs/total.jpg
+img5: ./assets/images/story-2/scrolly-2/jpgs/offense.jpg
+img6: ./assets/images/story-2/scrolly-2/jpgs/fine.jpg
+img7: ./assets/images/story-2/scrolly-2/jpgs/fees.jpg
+img8: ./assets/images/story-2/scrolly-2/jpgs/server-fees.jpg
+img9: ./assets/images/story-2/scrolly-2/jpgs/total.jpg
+img10: ./assets/images/story-2/scrolly-3/jpgs/categories.jpg
+img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
+img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
+img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
+alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+alt2: The fine for the offense is $25.
+alt3: The fees, costs and surcharges on the offense add up to $125.50…
+alt4: ...making the total amount charged $150.50.
+alt5: This court receipt is for disorderly conduct.
+alt6: The fine for the offense is $300.
+alt7: The fees, costs and surcharges on the offense add up to $165…
+alt8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling $160.70...
+alt9: ...making the total amount charged $625.70.
+alt10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+alt11: Access to Justice funds legal services for people who can’t otherwise afford them.
+alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
+alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+text2: The fine for the offense is <b>$25</b>.
+text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>…
+text4: ...making the total amount charged <b>$150.50</b>.
+text5: This court receipt is for disorderly conduct.
+text6: The fine for the offense is <b>$300</b>.
+text7: The fees, costs and surcharges on the offense add up to <b>$165</b>…
+text8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling <b>$160.70</b>...
+text9: ...making the total amount charged <b>$625.70</b>.
+text10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+text11: <b>Access to Justice</b> funds legal services for people who can’t otherwise afford them.
+text12: <b>Constable Education Training Act</b> funds basic training and certification for constables across Pennsylvania.
+text13: <b>Domestic Violence Compensation</b> funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
 {}
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Dictum at tempor commodo ullamcorper. Tristique senectus et netus et malesuada fames ac turpis egestas. Donec massa sapien faucibus et. Neque sodales ut etiam sit amet nisl. Malesuada bibendum arcu vitae elementum. Turpis egestas integer eget aliquet nibh praesent tristique. Tortor at risus viverra adipiscing at in tellus. Integer enim neque volutpat ac tincidunt vitae. Leo in vitae turpis massa sed elementum tempus egestas sed.
+*The next story in The True Cost of Court Debt series will explore how not paying one’s fines and fees can result in a suspended license. Check back on Feb. 20 or sign up for [the PublicSource newsletter](https://www.publicsource.org/newsletter-signup/) to make sure you don't miss it.*
 
-Imperdiet massa tincidunt nunc pulvinar sapien. Malesuada fames ac turpis egestas integer eget. Non enim praesent elementum facilisis. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Suspendisse in est ante in. Euismod in pellentesque massa placerat. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Ut sem viverra aliquet eget sit amet tellus cras. Ornare quam viverra orci sagittis eu volutpat. Id venenatis a condimentum vitae. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Integer malesuada nunc vel risus commodo viverra. Ac tortor dignissim convallis aenean et tortor at. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Neque ornare aenean euismod elementum.
+*Juliette Rihl is a reporter for PublicSource. Juliette is a Justice Reporting Fellow for the 2019 John Jay Fellowship on “Cash Register Justice.” She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
 
-Malesuada bibendum arcu vitae elementum. Cursus vitae congue mauris rhoncus. Ac odio tempor orci dapibus ultrices in iaculis nunc sed. Non pulvinar neque laoreet suspendisse. Maecenas accumsan lacus vel facilisis volutpat est. Placerat in egestas erat imperdiet sed euismod nisi. Viverra justo nec ultrices dui. Risus sed vulputate odio ut enim. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Tristique sollicitudin nibh sit amet commodo nulla facilisi. Convallis convallis tellus id interdum velit laoreet id donec. Auctor neque vitae tempus quam pellentesque nec. Tortor consequat id porta nibh venenatis cras sed felis. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a. Enim praesent elementum facilisis leo vel fringilla est. Diam vulputate ut pharetra sit amet. Lacinia quis vel eros donec ac odio.
+*Design and development by PublicSource Interactives & Design Editor Natasha Vicens. Lead art by PublicSource Visuals Producer Ryan Loew.*
 
-{.scrollama5}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
-{}
-{.scrollama6}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
-{}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet nisl purus in mollis nunc sed. Non consectetur a erat nam at. Dignissim sodales ut eu sem integer. Consectetur purus ut faucibus pulvinar. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Scelerisque viverra mauris in aliquam sem fringilla. Feugiat in fermentum posuere urna nec. Vitae justo eget magna fermentum iaculis eu. Phasellus egestas tellus rutrum tellus pellentesque. Id aliquet risus feugiat in ante metus dictum. Nibh tellus molestie nunc non blandit massa enim. Turpis egestas pretium aenean pharetra. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Purus gravida quis blandit turpis cursus in hac. Ut consequat semper viverra nam libero justo laoreet sit amet. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Risus ultricies tristique nulla aliquet. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit.
-
-Nulla posuere sollicitudin aliquam ultrices sagittis orci. Pretium lectus quam id leo in. Praesent tristique magna sit amet purus gravida quis blandit. Sed blandit libero volutpat sed cras ornare arcu. Arcu cursus vitae congue mauris rhoncus. Consequat semper viverra nam libero. Hendrerit dolor magna eget est lorem. In iaculis nunc sed augue lacus viverra vitae congue. At imperdiet dui accumsan sit amet nulla facilisi morbi. Sed cras ornare arcu dui vivamus. In aliquam sem fringilla ut morbi tincidunt. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Libero nunc consequat interdum varius sit amet. Malesuada nunc vel risus commodo. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.
-
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Dictum at tempor commodo ullamcorper. Tristique senectus et netus et malesuada fames ac turpis egestas. Donec massa sapien faucibus et. Neque sodales ut etiam sit amet nisl. Malesuada bibendum arcu vitae elementum. Turpis egestas integer eget aliquet nibh praesent tristique. Tortor at risus viverra adipiscing at in tellus. Integer enim neque volutpat ac tincidunt vitae. Leo in vitae turpis massa sed elementum tempus egestas sed.
-
-{.scrollama7}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
-{}
-{.scrollama8}
-img1: ./assets/images/offense.jpg
-img2: ./assets/images/fine-cut.jpg
-img3: ./assets/images/fees-cut.jpg
-img4: ./assets/images/totals-cut.jpg
-alt1: #
-alt2: #
-alt3: #
-alt4: #
-text1: Something about the lead offense would go here.
-text2: Something about the fine being only <b>$300</b> would go here.
-text3: Something about the fees being <b>$XXX</b> would go here.
-text4: Something about the total being <b>$XXX</b> would go here.
-{}
-
-Imperdiet massa tincidunt nunc pulvinar sapien. Malesuada fames ac turpis egestas integer eget. Non enim praesent elementum facilisis. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Suspendisse in est ante in. Euismod in pellentesque massa placerat. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Ut sem viverra aliquet eget sit amet tellus cras. Ornare quam viverra orci sagittis eu volutpat. Id venenatis a condimentum vitae. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Integer malesuada nunc vel risus commodo viverra. Ac tortor dignissim convallis aenean et tortor at. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Neque ornare aenean euismod elementum.
-
-Malesuada bibendum arcu vitae elementum. Cursus vitae congue mauris rhoncus. Ac odio tempor orci dapibus ultrices in iaculis nunc sed. Non pulvinar neque laoreet suspendisse. Maecenas accumsan lacus vel facilisis volutpat est. Placerat in egestas erat imperdiet sed euismod nisi. Viverra justo nec ultrices dui. Risus sed vulputate odio ut enim. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Tristique sollicitudin nibh sit amet commodo nulla facilisi. Convallis convallis tellus id interdum velit laoreet id donec. Auctor neque vitae tempus quam pellentesque nec. Tortor consequat id porta nibh venenatis cras sed felis. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a. Enim praesent elementum facilisis leo vel fringilla est. Diam vulputate ut pharetra sit amet. Lacinia quis vel eros donec ac odio.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet nisl purus in mollis nunc sed. Non consectetur a erat nam at. Dignissim sodales ut eu sem integer. Consectetur purus ut faucibus pulvinar. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Scelerisque viverra mauris in aliquam sem fringilla. Feugiat in fermentum posuere urna nec. Vitae justo eget magna fermentum iaculis eu. Phasellus egestas tellus rutrum tellus pellentesque. Id aliquet risus feugiat in ante metus dictum. Nibh tellus molestie nunc non blandit massa enim. Turpis egestas pretium aenean pharetra. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Purus gravida quis blandit turpis cursus in hac. Ut consequat semper viverra nam libero justo laoreet sit amet. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Risus ultricies tristique nulla aliquet. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit.
-
-Nulla posuere sollicitudin aliquam ultrices sagittis orci. Pretium lectus quam id leo in. Praesent tristique magna sit amet purus gravida quis blandit. Sed blandit libero volutpat sed cras ornare arcu. Arcu cursus vitae congue mauris rhoncus. Consequat semper viverra nam libero. Hendrerit dolor magna eget est lorem. In iaculis nunc sed augue lacus viverra vitae congue. At imperdiet dui accumsan sit amet nulla facilisi morbi. Sed cras ornare arcu dui vivamus. In aliquam sem fringilla ut morbi tincidunt. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Libero nunc consequat interdum varius sit amet. Malesuada nunc vel risus commodo. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.
-
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Dictum at tempor commodo ullamcorper. Tristique senectus et netus et malesuada fames ac turpis egestas. Donec massa sapien faucibus et. Neque sodales ut etiam sit amet nisl. Malesuada bibendum arcu vitae elementum. Turpis egestas integer eget aliquet nibh praesent tristique. Tortor at risus viverra adipiscing at in tellus. Integer enim neque volutpat ac tincidunt vitae. Leo in vitae turpis massa sed elementum tempus egestas sed.
-
-Imperdiet massa tincidunt nunc pulvinar sapien. Malesuada fames ac turpis egestas integer eget. Non enim praesent elementum facilisis. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Suspendisse in est ante in. Euismod in pellentesque massa placerat. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Ut sem viverra aliquet eget sit amet tellus cras. Ornare quam viverra orci sagittis eu volutpat. Id venenatis a condimentum vitae. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Integer malesuada nunc vel risus commodo viverra. Ac tortor dignissim convallis aenean et tortor at. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Neque ornare aenean euismod elementum.
-
-Malesuada bibendum arcu vitae elementum. Cursus vitae congue mauris rhoncus. Ac odio tempor orci dapibus ultrices in iaculis nunc sed. Non pulvinar neque laoreet suspendisse. Maecenas accumsan lacus vel facilisis volutpat est. Placerat in egestas erat imperdiet sed euismod nisi. Viverra justo nec ultrices dui. Risus sed vulputate odio ut enim. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Tristique sollicitudin nibh sit amet commodo nulla facilisi. Convallis convallis tellus id interdum velit laoreet id donec. Auctor neque vitae tempus quam pellentesque nec. Tortor consequat id porta nibh venenatis cras sed felis. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a. Enim praesent elementum facilisis leo vel fringilla est. Diam vulputate ut pharetra sit amet. Lacinia quis vel eros donec ac odio.
-
-
+*This story was fact-checked by Matt Maielli.*
 
 []
