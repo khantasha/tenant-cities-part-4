@@ -37,7 +37,7 @@ img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
 img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
 img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
 alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
-alt2: The fine for the offense is $25.
+alt2: The judge fined the defendant $25.
 alt3: The fees, costs and surcharges on the offense add up to $125.50…
 alt4: ...making the total amount charged $150.50.
 alt5: This court receipt is for disorderly conduct.
@@ -50,7 +50,7 @@ alt11: Access to Justice funds legal services for people who can’t otherwise a
 alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
 alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
 text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
-text2: The fine for the offense is <b>$25</b>.
+text2: The judge fined the defendant <b>$25</b>.
 text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>...
 text4: ...making the total amount charged <b>$150.50</b>.
 text5: This court receipt is for disorderly conduct.
@@ -78,7 +78,7 @@ img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
 img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
 img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
 alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
-alt2: The fine for the offense is $25.
+alt2: The judge fined the defendant $25.
 alt3: The fees, costs and surcharges on the offense add up to $125.50…
 alt4: ...making the total amount charged $150.50.
 alt5: This court receipt is for disorderly conduct.
@@ -91,7 +91,7 @@ alt11: Access to Justice funds legal services for people who can’t otherwise a
 alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
 alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
 text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
-text2: The fine for the offense is <b>$25</b>.
+text2: The judge fined the defendant <b>$25</b>.
 text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>...
 text4: ...making the total amount charged <b>$150.50</b>.
 text5: This court receipt is for disorderly conduct.
