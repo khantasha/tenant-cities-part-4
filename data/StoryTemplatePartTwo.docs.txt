@@ -7,7 +7,7 @@ Court costs, also known as fees or surcharges, on traffic and non-traffic offens
 
 While fines are punishment for an offense, fees are not meant to be punitive. Yet they often exceed the fine itself, in many cases costing several times more. “It’s counterintuitive,” Boni said. “You don’t pay at a restaurant more on the tip and the taxes than the cost of the food.”
 
-Pennsylvania Court of Common Pleas judges have the authority to waive court fines and costs. But at the Magisterial District Court level, which handles low-level cases, [the rules are less clear](/part-one.html).
+Pennsylvania Court of Common Pleas judges have the authority to waive court fines and costs. But at the Magisterial District Court level, which handles low-level cases, [the rules are less clear](part-one.html).
 
 {.inline-img}
 img: ./assets/images/story-2/boni.jpg
