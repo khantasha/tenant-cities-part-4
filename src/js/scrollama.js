@@ -32,7 +32,7 @@ if(homepage){
   // initialize the scrollama
   var scroller3 = scrollama();
 
-  // third scrollrama
+  // fourth scrollrama
   var scrolly4 = d3.select('#scrolly4');
   var figure4 = scrolly4.select('figure');
   var currImg4 = figure4.select('#picture1');
@@ -162,7 +162,6 @@ if(homepage){
   	currImg4.classed('is-visible', true);
   }
 
-
   function init() {
 
   	setupStickyfill();
@@ -196,12 +195,13 @@ if(homepage){
   	})
   		.onStepEnter(handleStepEnter3)
 
-      scroller4.setup({
-    		step: '#scrolly4 article .step',
-    		offset: 0.68,
-    		debug: false,
-    	})
-    		.onStepEnter(handleStepEnter4)
+    scroller4.setup({
+  		step: '#scrolly4 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter4)
+
   }
   // kick things off
   init();

@@ -1,0 +1,115 @@
+[+sections]
+In Pennsylvania, many traffic fines are as little as $25. But it can be hard to tell that from the court paperwork. The fine is just one of several itemized costs that can add up to well over $150. 
+
+“It always makes me uncomfortable when I tell someone what their fine is, and they might smile and say, ‘Thank you, your honor. I can pay that today,’ and then I say, ‘Well hold on, you’re gonna have court costs,’” McKees Rocks Magisterial District Judge Bruce Boni said. 
+
+Court costs, also known as fees or surcharges, on traffic and non-traffic offenses fund a number of government functions in Pennsylvania. Some are court-related, like the judiciary’s automated case management system. Many other fees are collected to fund statewide programs, like emergency medical services and youth diversionary programs. 
+
+While fines are punishment for an offense, fees are not meant to be punitive. Yet they often exceed the fine itself, in many cases costing several times more. “It’s counterintuitive,” Boni said. “You don’t pay at a restaurant more on the tip and the taxes than the cost of the food.”
+
+Pennsylvania Court of Common Pleas judges have the authority to waive court fines and costs. But at the Magisterial District Court level, which handles low-level cases, [the rules are less clear](part-one.html).
+
+{.inline-img}
+img: ./assets/images/story-2/boni.jpg
+alt: McKees Rocks Magisterial District Judge Bruce Boni explains how court costs are added to traffic fines. (Photo by Jay Manning/PublicSource)
+caption: McKees Rocks Magisterial District Judge Bruce Boni explains how court costs are added to traffic fines. (Photo by Jay Manning/PublicSource)
+{}
+In 2018, Pennsylvania courts brought in $444 million in fines and fees. Some court costs increase yearly based on the Consumer Price Index, a cost of living measure. Other surcharges are set by state statute and are not raised unless lawmakers amend the statute. State Sen. Lisa Baker, R-Luzerne told PublicSource that lawmakers put these charges in place for two reasons: the belief that wrongdoers should pay for the cost of the court and because they want to generate revenue without raising taxes.
+
+According to Pittsburgh Magisterial District Judge Richard King, lawmakers are leaning on court costs instead of taxes. “Legislators haven’t had the wherewithal to actually raise taxes on everybody,” he said. “It’s the adage: do you want to get a nickel from everyone, or do you want to get a quarter off of certain people?” 
+
+State Rep. Jake Wheatley, D-Hill District, is the Democratic chair of the House Finance Committee. He said the state Legislature relies on “back-door” funding from fees instead of comprehensively funding the state budget with taxes. “When we talk about cutting things in the budget, you will see the fees then start getting higher,” he said. “It’s a legislative way to deal with stuff and not deal with stuff.”
+
+Below are breakdowns of the fine and the costs attached to two offenses.
+
+{.scrollama3}
+img1: ./assets/images/story-2/scrolly-1/jpgs/offense.jpg
+img2: ./assets/images/story-2/scrolly-1/jpgs/fine.jpg
+img3: ./assets/images/story-2/scrolly-1/jpgs/fees.jpg
+img4: ./assets/images/story-2/scrolly-1/jpgs/total.jpg
+img5: ./assets/images/story-2/scrolly-2/jpgs/offense.jpg
+img6: ./assets/images/story-2/scrolly-2/jpgs/fine.jpg
+img7: ./assets/images/story-2/scrolly-2/jpgs/fees.jpg
+img8: ./assets/images/story-2/scrolly-2/jpgs/server-fees.jpg
+img9: ./assets/images/story-2/scrolly-2/jpgs/total.jpg
+img10: ./assets/images/story-2/scrolly-3/jpgs/categories.jpg
+img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
+img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
+img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
+alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+alt2: The judge fined the defendant $25.
+alt3: The fees, costs and surcharges on the offense add up to $125.50…
+alt4: ...making the total amount charged $150.50.
+alt5: This court receipt is for disorderly conduct.
+alt6: The fine for the offense is $300.
+alt7: The fees, costs and surcharges on the offense add up to $165…
+alt8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling $160.70...
+alt9: ...making the total amount charged $625.70.
+alt10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+alt11: Access to Justice funds legal services for people who can’t otherwise afford them.
+alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
+alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+text2: The judge fined the defendant <b>$25</b>.
+text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>...
+text4: ...making the total amount charged <b>$150.50</b>.
+text5: This court receipt is for disorderly conduct.
+text6: The fine for the offense is <b>$300</b>.
+text7: The fees, costs and surcharges on the offense add up to <b>$165</b>...
+text8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling <b>$160.70</b>...
+text9: ...making the total amount charged <b>$625.70</b>.
+text10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+text11: <b>Access to Justice</b> funds legal services for people who can’t otherwise afford them.
+text12: <b>Constable Education Training Act</b> funds basic training and certification for constables across Pennsylvania.
+text13: <b>Domestic Violence Compensation</b> funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+{}
+{.scrollama4}
+img1: ./assets/images/story-2/scrolly-1/jpgs/offense.jpg
+img2: ./assets/images/story-2/scrolly-1/jpgs/fine.jpg
+img3: ./assets/images/story-2/scrolly-1/jpgs/fees.jpg
+img4: ./assets/images/story-2/scrolly-1/jpgs/total.jpg
+img5: ./assets/images/story-2/scrolly-2/jpgs/offense.jpg
+img6: ./assets/images/story-2/scrolly-2/jpgs/fine.jpg
+img7: ./assets/images/story-2/scrolly-2/jpgs/fees.jpg
+img8: ./assets/images/story-2/scrolly-2/jpgs/server-fees.jpg
+img9: ./assets/images/story-2/scrolly-2/jpgs/total.jpg
+img10: ./assets/images/story-2/scrolly-3/jpgs/categories.jpg
+img11: ./assets/images/story-2/scrolly-3/jpgs/categories-justice.jpg
+img12: ./assets/images/story-2/scrolly-3/jpgs/categories-education.jpg
+img13: ./assets/images/story-2/scrolly-3/jpgs/categories-dv.jpg
+alt1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+alt2: The judge fined the defendant $25.
+alt3: The fees, costs and surcharges on the offense add up to $125.50…
+alt4: ...making the total amount charged $150.50.
+alt5: This court receipt is for disorderly conduct.
+alt6: The fine for the offense is $300.
+alt7: The fees, costs and surcharges on the offense add up to $165…
+alt8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling $160.70...
+alt9: ...making the total amount charged $625.70.
+alt10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+alt11: Access to Justice funds legal services for people who can’t otherwise afford them.
+alt12: Constable Education Training Act funds basic training and certification for constables across Pennsylvania.
+alt13: Domestic Violence Compensation funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+text1: This court receipt is for driving 5 mph over the speed limit in a 25 mph residential zone.
+text2: The judge fined the defendant <b>$25</b>.
+text3: The fees, costs and surcharges on the offense add up to <b>$125.50</b>...
+text4: ...making the total amount charged <b>$150.50</b>.
+text5: This court receipt is for disorderly conduct.
+text6: The fine for the offense is <b>$300</b>.
+text7: The fees, costs and surcharges on the offense add up to <b>$165</b>...
+text8: ...plus server fees for each time a constable tried to deliver an arrest warrant to the defendant for the unpaid fines and fees, totaling <b>$160.70</b>...
+text9: ...making the total amount charged <b>$625.70</b>.
+text10: Here are some of the fees collected by Pennsylvania Magisterial District Courts to fund a variety of government programs.
+text11: <b>Access to Justice</b> funds legal services for people who can’t otherwise afford them.
+text12: <b>Constable Education Training Act</b> funds basic training and certification for constables across Pennsylvania.
+text13: <b>Domestic Violence Compensation</b> funds organizations that provide services, including counseling, shelter and advocacy, to victims of domestic violence and sexual assault.
+{}
+*The next story in The True Cost of Court Debt series will explore how not paying one’s fines and fees can result in a suspended license. Check back on Feb. 20 or sign up for [the PublicSource newsletter](https://www.publicsource.org/newsletter-signup/) to make sure you don't miss it.*
+
+*Juliette Rihl is a reporter for PublicSource. Juliette is a Justice Reporting Fellow for the 2019 John Jay Fellowship on “Cash Register Justice.” She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
+
+*Design and development by PublicSource Interactives & Design Editor Natasha Vicens. Lead art by PublicSource Visuals Producer Ryan Loew.*
+
+*This story was fact-checked by Matt Maielli.*
+
+[]
