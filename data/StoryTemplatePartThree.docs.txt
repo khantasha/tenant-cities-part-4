@@ -72,15 +72,17 @@ She called having her license a “life-changer.” Now, she drives her son to s
 
 <p id="note">“I feel so liberated,” she said. “It’s convenient. I’m able to just walk outside and go to the store.”</p>
 
-*\*The analysis used PennDOT data from January 2020 showing the number of licenses currently suspended in each ZIP code in Allegheny County for failure to pay or failure to respond to a traffic citation. The data was compared to U.S. Census Bureau data of median income and population size for each ZIP code. A regression analysis of ZIP code median income and percent of population with suspended licenses for the reasons above produced a 0.6 r-value at 95% confidence. ZIP code data is imperfect because it can include portions of different neighborhoods with varying socioeconomic levels. Neighborhood-specific data was not available from PennDOT.*
+<hr>
 
-*The next story in The True Cost of Court Debt series will tell the stories of people who have been jailed for not paying their court debt. Check back on Feb. 27 or sign up for [the PublicSource newsletter](https://www.publicsource.org/newsletter-signup/) to make sure you don't miss it.*
+**\*The analysis used PennDOT data from January 2020 showing the number of licenses currently suspended in each ZIP code in Allegheny County for failure to pay or failure to respond to a traffic citation. The data was compared to U.S. Census Bureau data of median income and population size for each ZIP code. A regression analysis of ZIP code median income and percent of population with suspended licenses for the reasons above produced a 0.6 r-value at 95% confidence. ZIP code data is imperfect because it can include portions of different neighborhoods with varying socioeconomic levels. Neighborhood-specific data was not available from PennDOT. Special thanks to Nick Cotter and to the Western Pennsylvania Regional Data Center for their help in analyzing the data for this story.**
+
+<hr>
+
+*The next story in The True Cost of Court Debt series will explore how some people who can't pay their court debt are put in jail. Check back on Feb. 27 or sign up for [the PublicSource newsletter](https://www.publicsource.org/newsletter-signup/) to make sure you don't miss it.*
 
 *Juliette Rihl is a reporter for PublicSource. Juliette is a Justice Reporting Fellow for the 2019 John Jay Fellowship on “Cash Register Justice.” She can be reached at [juliette@publicsource.org](mailto:juliette@publicsource.org).*
 
 *Lead photo by PublicSource Visuals Producer Jay Manning.*
-
-*Special thanks to Nick Cotter and to the Western Pennsylvania Regional Data Center for their help in analyzing the data for this story.*
 
 *This story was fact-checked by Matt Maielli.*
 
