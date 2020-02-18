@@ -23,6 +23,11 @@
         <p><%= section.value.caption %></p>
       </div>
 
+      <% }else if(section.type == "cta-box"){ %>
+        <div class="cta-box">
+          <em><%= section.value.text %></em>
+        </div>
+
     <!-- Expander 1 -->
     <% }else if(section.type == "expander1"){ %>
     <div class="u-pull-right">
@@ -249,7 +254,6 @@
       </section>
 
       <div class="u-container-text">
-
 
 <% } %>
 
