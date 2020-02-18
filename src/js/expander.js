@@ -77,7 +77,7 @@ readMore3( $('.spoiler3'), 6);
 
 function readMore3(jObj3, lineNum3) {
 if ( isNaN(lineNum3) ) {
-  lineNum3 = 5;
+  lineNum3 = 6;
 }
 var go3 = new ReadMore3 (jObj3, lineNum3);
 }
