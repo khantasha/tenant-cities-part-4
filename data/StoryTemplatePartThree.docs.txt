@@ -9,8 +9,8 @@ Macon said he had his license restored in January. He started a payment plan tho
 
 {.hero}
 img: ./assets/images/story-3/IMG_1819.jpg
-alt: Derrick Macon outside of his home in East Hills. (Photo by Jay Manning/PublicSource)
-caption: Derrick Macon outside of his home in East Hills. (Photo by Jay Manning/PublicSource)
+alt: Derrick Macon Jr. outside of his home in East Hills. (Photo by Jay Manning/PublicSource)
+caption: Derrick Macon Jr. outside of his home in East Hills. (Photo by Jay Manning/PublicSource)
 {}
 **The heart of the matter:** In Pennsylvania, state law requires the Pennsylvania Department of Transportation [PennDOT] to automatically suspend a resident’s license for not paying or responding to a traffic citation — even for offenses that don’t otherwise warrant a suspension, like running a stop sign. According to PennDOT, 376,000 drivers — 29,000 in Allegheny County — have their license suspended for failure to pay or respond. 
 
