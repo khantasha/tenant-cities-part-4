@@ -1,56 +1,53 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-<title><%= project.title %></title>
+  <title></title>
 
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="https://www.publicsource.org/wp-content/uploads/2019/01/180x180.png" />
-<link rel="icon" sizes="96x96" href="https://www.publicsource.org/wp-content/uploads/2019/01/96x96.png" />
-<link rel="icon" sizes="32x32" href="https://www.publicsource.org/wp-content/uploads/2016/12/publicsource_favicon-06.png" />
-<link rel="icon" sizes="16x16" href="https://www.publicsource.org/wp-content/uploads/2019/01/16x16.png" />
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.publicsource.org/wp-content/uploads/2019/01/180x180.png" />
+  <link rel="icon" sizes="96x96" href="https://www.publicsource.org/wp-content/uploads/2019/01/96x96.png" />
+  <link rel="icon" sizes="32x32" href="https://www.publicsource.org/wp-content/uploads/2016/12/publicsource_favicon-06.png" />
+  <link rel="icon" sizes="16x16" href="https://www.publicsource.org/wp-content/uploads/2019/01/16x16.png" />
 
-<!-- Fonts -->
-<link rel="stylesheet" href="https://use.typekit.net/kzy1kbs.css">
-<link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
+  <!-- Fonts -->
+  <link rel="stylesheet" href="https://use.typekit.net/kzy1kbs.css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;800;900&display=swap" rel="stylesheet">
 
-<!-- Font Awesome -->
-<script src="https://kit.fontawesome.com/a863e368ab.js" crossorigin="anonymous"></script>
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/a863e368ab.js" crossorigin="anonymous"></script>
 
-<!-- Safari, you're the worst -->
-<meta name='format-detection' content='telephone=no'>
+  <!-- Safari, you're the worst -->
+  <meta name='format-detection' content='telephone=no'>
 
-<!-- Jquery -->
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous">
-</script>
+  <!-- Jquery -->
+  <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous">
+  </script>
 
-<!-- Type it -->
-<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
+  <!-- Type it -->
+  <script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
 
-<% if (!project.embedded) { %>
+  <!-- BEGIN TWITTER SUMMARY CARD -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:site" content="@PublicSourcePA">
+  <meta name="twitter:url" content="">
+  <meta name="twitter:image" content="">
+  <meta name="twitter:description" content="">
 
-<!-- BEGIN TWITTER SUMMARY CARD -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="<%= project.title %>">
-<meta name="twitter:site" content="@PublicSourcePA">
-<meta name="twitter:url" content="<%= project.url %>">
-<meta name="twitter:image" content="<%= project.image %>">
-<meta name="twitter:description" content="<%= project.description %>">
+  <!-- Social sharing meta -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="">
+  <meta property="og:site_name" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:description" content="">
 
-<!-- Social sharing meta -->
-<meta property="og:type" content="article">
-<meta property="og:title" content="<%= project.title %>">
-<meta property="og:site_name" content="">
-<meta property="og:url" content="<%= project.url %>">
-<meta property="og:image" content="<%= project.image %>">
-<meta property="og:description" content="<%= project.description %>">
-<meta property="fb:app_id" content=""/>
+  <%= t.include("partials/_analytics.html") %>
 
-<%
-// if !project.embedded...
-}
-%>
-
-<%= t.include("partials/_analytics.html") %>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>

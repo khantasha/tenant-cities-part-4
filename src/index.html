@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en-US">
+
+<%= t.include("partials/_head.html") %>
+
+<body>
+
+    <%= t.include("partials/_nav.html") %>
+
+    <%= t.include("partials/_top.html") %>
+
+    <%= t.include("partials/_intro.html") %>
+
+    <%= t.include("partials/_story.html", {'story': archieml.StoryTemplate}) %>
+
+    <div style="padding-bottom: 2em;"></div>
+
+  <!-- Footer -->
+  <%= t.include("partials/_footer.html") %>
+
+  <script src="app.js" async></script>
+  <%= t.include("partials/_analytics.html") %>
+  </body>
+</html>
