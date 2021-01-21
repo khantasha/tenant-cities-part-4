@@ -1,6 +1,6 @@
 .u-container-text {
     font-family: garamond-premier-pro, serif;
-    font-size: 22px;
+    font-size: 22.5px;
     max-width: 700px;
     margin-top: 1.5em;
     margin-left: auto;
@@ -13,26 +13,51 @@
     }
 }
 
-.subhed {
-  text-align: left;
-  padding: 1em 0 1em 0;
+
+.u-container-text-color {
+    font-family: garamond-premier-pro, serif;
+    background-color: @beige;
+    font-size: 22px;
+    margin-top: 1.5em;
+    text-align: left;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    @media @mobile {
+    }
 }
 
-.u-container-text h2 {
+.u-container-text-color h2 {
   font-family: @mallory;
+  font-size: 1.05em;
   font-weight: 800;
-  font-size: 1.2em;
-  display: inline-block;
-  // text-transform: uppercase;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1em;
+  max-width: 700px;
+  line-height: 1.4;
+  @media @mobile {
+    font-size: .975em;
+    margin-top: 1.5em;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+.u-container-text-color span {
+  font-weight: 300 !important;
 }
 
 .u-container-text h3 {
-  font-family: @mono;
+  font-family: @mallory;
+  font-size: 1.4em;
   font-weight: 700;
-  font-size: 1.1em;
-  border: 1px dashed black;
-  padding: 4px;
-  margin: 2em 0 2em 0;
+  line-height: 1.05em;
+  color: @dusty-red;
+  margin: 1em 0 1em 0;
+  @media @mobile {
+  font-size: 1.2em;
+  }
 }
 
 .u-container-text a {
@@ -40,11 +65,28 @@
   text-decoration: none;
 }
 
+.subhed {
+  text-align: left;
+  padding: 1em 0 1em 0;
+}
+
+.name-title span {
+  font-family: @mallory !important;
+  font-weight: 700;
+  font-size: 19.75px;
+}
+
+.name-title {
+  font-family: garamond-premier-pro, serif;
+  font-size: 22px;
+  line-height: 1.4;
+}
+
 // Photos
 
 .hero-image img {
   width: 100%;
-  padding-top: 3em;
+  padding-top: .5em;
   @media @mobile {
     padding-top: .5em;
   }
@@ -58,13 +100,11 @@
 }
 
 .caption {
-  text-align: center;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: .5em;
+  text-align: left;
+  margin-left: 20px;
+  // padding-bottom: .25em;
   font-family: @serif;
-  color: grey;
+  margin-bottom: 30px;
   @media @mobile {
     padding-bottom: 0;
     margin-left: 20px;
@@ -73,9 +113,10 @@
 }
 
 .caption p {
-  font-family: @serif;
-  font-size: 14px;
-  color: grey;
+  font-family: @mallory;
+  font-size: 13.5px;
+  font-weight: 300;
+  color: #000;
   @media @mobile {
   font-size: 12px;
   }
