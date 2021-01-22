@@ -84,9 +84,9 @@ It’s not the same as 2011, he said. “When people leave Narcotics Anonymous a
 
 {.subhed}
 text: When somebody makes an edgy joke, like the ones her son Spenser used to make, Tina Flowers feels his presence again.
-img: https://www.publicsource.org/wp-content/uploads/2021/01/TinaFlowers_1448.jpg
-alt: Tina Flowers holds a photo of her son Spenser from his junior year of high school.  (Photo by Ryan Loew/PublicSource)
-caption: Tina Flowers holds a photo of her son Spenser from his junior year of high school.  (Photo by Ryan Loew/PublicSource)
+img: https://www.publicsource.org/wp-content/uploads/2021/01/TinaFlowers_1227.jpg
+alt: Tina Flowers sits outside her home in Hampton Township in October 2020. (Photo by Ryan Loew/PublicSource)
+caption: Tina Flowers sits outside her home in Hampton Township in October 2020. (Photo by Ryan Loew/PublicSource)
 {}
 He was “a typical suburbanite kid,” she would tell crowds of students at the talks she gives about substance abuse. He played football and rowed. He was in the choir and was involved in his church youth group, working summer camps. 
 
@@ -97,6 +97,15 @@ Flowers learned from his family therapist soon afterward that he was using heroi
 This was a time before Narcan was widely available to everyone, when there were more debates about whether we should keep reviving people who overdose repeatedly, she said. When Spenser finally went in for treatment, she didn’t tell his grandparents why. 
 
 “We didn’t know that much about addiction. We were still in the place of saying, ‘Just stop. Just stop,’” she said.
+
+{.inline-img}
+
+img: https://www.publicsource.org/wp-content/uploads/2021/01/TinaFlowers_1397.jpg
+
+alt: A photo collage of Tina Flowers' son Spenser. (Photo by Ryan Loew/PublicSource)
+
+caption: A photo collage of Tina Flowers' son Spenser. (Photo by Ryan Loew/PublicSource)
+{}
 
 Spenser overdosed at home the day after Christmas. His family used Narcan to revive him. The policeman knew Spenser and tried to get him to go to detox right away.  A few days later, Spenser finally said he would get help. But on Jan. 1, 2017, Flowers found him dead from an overdose.
 
@@ -146,6 +155,10 @@ But this time, she said, she also had to draw on the strength of God to help her
 
 “It took a long process, a long time for me, to make a decision to turn my will in my life over to the care of God as I understand him,” she said. “I didn’t think he would do it for me, that he would give me courage.”
 
+{.pullquote}
+text: “The disease of addiction cannot sit in my life. That person is dead and never to return. I have to do all the necessary things not to go back there.”
+{} 
+
 Now she’s been able to pay her own rent for two years, she said, and has her own SUV. As a home health aide, she helps a man with depression clean up his home and cooks, cleans and helps another woman with cancer who is prone to falling.
 
 Even before the pandemic, she kept her circle tight because she had to cut people out of her life who were bad influences. Now it’s just her clients, her sponsor and her friends at King of Kings Baptist Ministry. Some of her support has had to move online and over the phone, including a Bible study that she now does through Periscope.
@@ -154,6 +167,6 @@ She’s had good days and bad days. Again, she turned to gospel music for streng
 
 “The disease of addiction cannot sit in my life,” she said. “That person is dead and never to return. I have to do all the necessary things not to go back there.”
 
-*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at oliver@publicsource.org or on Twitter @ORMorrison.*
+*Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at [oliver@publicsource.org](mailto:oliver@publicsource.org) or on Twitter [@ORMorrison](https://twitter.com/ORMorrison).*
 
 []
