@@ -1,6 +1,4 @@
 [+sections]
-Survivors and loved ones recount the pains of Southwestern Pennsylvania’s opioid crisis during COVID
-
 Over the summer, PublicSource reported that [the number of drug overdoses and overdose deaths in Allegheny County was rising again](https://www.publicsource.org/allegheny-county-hoped-the-tide-had-turned-on-the-opioid-epidemic-early-data-suggests-it-may-be-surging-again/). 
 
 The increase started before the pandemic, but experts said the coronavirus was making the opioid epidemic worse. We reported on what the [new surge in overdoses looked like from the eyes of recovery workers](https://www.publicsource.org/opioid-overdose-death-pittsburgh-allegheny-covid-treatment/) who were trying to adapt to the new challenges. 
@@ -22,6 +20,12 @@ caption: Amber J. photographed outside her home in January. (Photo by Ryan Loew/
 At the time, Amber, who is in her 30s, was still living with her two youngest sons in an apartment with a clogged toilet, a broken stove, bed bugs and a missing front door. The police had kicked the door in to arrest her boyfriend for selling drugs four months earlier, and the door had never been replaced. 
 
 Her shift at the nursing home started at 7 a.m., but she had lost her phone and she didn’t know what time it was. She hurried to strap the boys into her 2004 Mercury. 
+
+<hr />
+
+*Related - [Holding on to love: One Pittsburgh story of coping with loss amid rising opioid overdoses](https://www.publicsource.org/pittsburgh-allegheny-county-opioid-overdose-love-story-loss-record-spike-covid-coronavirus)*
+
+<hr />
 
 Next thing she knew, she had rammed her car into a small bridge, but, because she was high, she kept driving for 3 miles. The wiring under her car ripped out, and the horn wouldn’t stop blaring. She took her sons out of the car and started walking to the babysitter. By the time she had enough sense to return to her car, the police were there to arrest her.
 
@@ -50,7 +54,7 @@ And in another turn of fortune: She recently had $250 worth of groceries at the 
 
 {.subhed}
 text: James B. was recovering from a bad motorcycle accident at the start of 2020. <span>A car slammed on the brakes in front of him. He ended up in the hospital for three months and had titanium rods inserted from his ankles up to his hips.</span>
-img: https://www.publicsource.org/wp-content/uploads/2021/01/JamesByron_4503.jpg
+img: https://www.publicsource.org/wp-content/uploads/2021/01/4503-2.jpg
 alt: James B., photographed in December 2020. One of the last friends James used drugs with died of an overdose in 2020. "All of my friends are dead," he said. "We’re talking like 20 people. They’re all dead.” (Photo by Ryan Loew/PublicSource)
 caption: James B., photographed in December 2020. (Photo by Ryan Loew/PublicSource)
 {}
@@ -92,7 +96,7 @@ He was “a typical suburbanite kid,” she would tell crowds of students at the
 
 Spenser enrolled at Temple University in August 2016. But by that October, he came home. He wasn’t ready for college, he told her. When Spenser got into a car accident not long later, an officer found Xanax in his car. 
 
-Flowers learned from his family therapist soon afterward that he was using heroin. Flowers knew her son drank and used marijuana. But this was different. Heroin users are the kind of deadbeats she’d see loitering around convenience stores, not people like her son, she thought at the time. She didn’t want to tell anyone.
+Tina learned from his family therapist soon afterward that he was using heroin. Tina knew her son drank and used marijuana. But this was different. Heroin users are the kind of deadbeats she’d see loitering around convenience stores, not people like her son, she thought at the time. She didn’t want to tell anyone.
 
 This was a time before Narcan was widely available to everyone, when there were more debates about whether we should keep reviving people who overdose repeatedly, she said. When Spenser finally went in for treatment, she didn’t tell his grandparents why. 
 
@@ -107,13 +111,13 @@ alt: A photo collage of Tina Flowers' son Spenser. (Photo by Ryan Loew/PublicSou
 caption: A photo collage of Tina Flowers' son Spenser. (Photo by Ryan Loew/PublicSource)
 {}
 
-Spenser overdosed at home the day after Christmas. His family used Narcan to revive him. The policeman knew Spenser and tried to get him to go to detox right away.  A few days later, Spenser finally said he would get help. But on Jan. 1, 2017, Flowers found him dead from an overdose.
+Spenser overdosed at home the day after Christmas. His family used Narcan to revive him. The policeman knew Spenser and tried to get him to go to detox right away.  A few days later, Spenser finally said he would get help. But on Jan. 1, 2017, Tina found him dead from an overdose.
 
-Flowers used to give monthly talks on overdosing to school and community groups but hasn’t been able to in the pandemic. “One of my messages is: You can’t keep them at home, you can’t keep them safe,” she said. “When they are that addicted, you can’t keep them safe.”
+Tina used to give monthly talks on overdosing to school and community groups but hasn’t been able to in the pandemic. “One of my messages is: You can’t keep them at home, you can’t keep them safe,” she said. “When they are that addicted, you can’t keep them safe.”
 
 This was her family’s fourth holiday season without Spenser. The pandemic took away most of the social gatherings that helped her get through it. “I’m sure people assume it should get better,” she said. “It doesn’t really.”
 
-Flowers started Spenser’s Voice, a foundation that has raised more than $130,000 for local agencies to provide help for young people with addiction.
+Tina started Spenser’s Voice, a foundation that has raised more than $130,000 for local agencies to provide help for young people with addiction.
 
 “He looks like a normal kid. It can hit anyone,” she said. “That’s my message.”
 
@@ -139,9 +143,9 @@ During the first months of the pandemic, Nicole didn’t receive many requests f
 
 {.subhed}
 text: When Laura W. started coughing and getting a runny nose last year, <span>she thought she had COVID-19.</span> 
-img: https://www.publicsource.org/wp-content/uploads/2021/01/4373.jpg
-alt: 
-caption: 
+img: https://www.publicsource.org/wp-content/uploads/2021/01/5053-2.jpg
+alt: Laura W., outside her home in Carrick. (Photo by Ryan Loew/PublicSource)
+caption: Laura W., outside her home in Carrick. (Photo by Ryan Loew/PublicSource)
 {}
 Because she has asthma, she immediately thought, “Oh no, I’m gonna die.”
 
@@ -168,5 +172,7 @@ She’s had good days and bad days. Again, she turned to gospel music for streng
 “The disease of addiction cannot sit in my life,” she said. “That person is dead and never to return. I have to do all the necessary things not to go back there.”
 
 *Oliver Morrison is PublicSource’s environment and health reporter. He can be reached at [oliver@publicsource.org](mailto:oliver@publicsource.org) or on Twitter [@ORMorrison](https://twitter.com/ORMorrison).*
+
+*This story was fact-checked by Emily Briselli.*
 
 []
