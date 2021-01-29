@@ -1,11 +1,12 @@
 .u-container-text {
-    font-family: garamond-premier-pro, serif;
-    font-size: 22.5px;
+    font-family: @crimson;
+    font-size: 20px;
     max-width: 700px;
     margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    color: #484848;
     @media @mobile {
       margin-top: 1.5em;
       margin-left: 20px;
@@ -31,9 +32,9 @@
 
 .u-container-text-color {
     font-family: garamond-premier-pro, serif;
-    background-color: @beige;
+    // background-color: @beige;
     font-size: 22px;
-    margin-top: 3em;
+    // margin-top: 3em;
     text-align: left;
     display: grid;
     justify-content: center;
@@ -43,13 +44,40 @@
     }
 }
 
-.u-container-text-color h2 {
+.u-container-pullquote {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  border-top: solid 15px #FFB440;
+  text-align: center;
+}
+
+.u-container-pullquote h3 {
   font-family: @mallory;
+  font-size: 1.8em;
+  font-weight: 700;
+  line-height: 1.1em;
+  margin: 1em 0 1em 0;
+  @media @mobile {
+  font-size: 1.4em;
+  }
+}
+
+.divider-bottom {
+
+}
+
+.u-container-text h2 {
+  font-family: @mallory;
+  color: #232323;
+  text-align: center;
   font-size: 1.1em;
-  font-weight: 800;
+  font-weight: 700;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 1em;
+  padding-top: .5em;
+  padding-bottom: .5em;
   max-width: 700px;
   line-height: 1.4;
   @media @mobile {
@@ -82,7 +110,7 @@
 }
 
 .subhed {
-  padding: 1.5em 0 1.5em 0;
+  padding: .5em 0 .5em 0;
   @media @mobile {
   padding: .5em 0 .5em 0;
   }
@@ -117,27 +145,48 @@
   }
 }
 
+.bug-img {
+  float: left;
+  padding: 8px 20px 10px 0;
+  max-width: 230px;
+  @media @mobile {
+    max-width: 170px;
+  }
+}
+
+.series-description {
+  border-left: solid 15px #FFB440;
+  padding-left: 20px;
+  margin: 2em 0 2em 0;
+}
+
+.series-description p {
+  font-family: @mallory;
+  font-size:17px;
+}
+
+.series-description b {
+  font-size: 17px !important;
+  font-weight: bold;
+}
+
 .caption {
   text-align: left;
-  margin-left: 15px;
   max-width: 1000px;
-  font-family: @serif;
-  margin-bottom: 30px;
   @media @mobile {
     padding-bottom: 0;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 15px;
   }
 }
 
 .caption p {
-  font-family: @mallory;
-  font-size: 13.5px;
+  font-family: @crimson;
+  font-size: 16px;
   font-weight: 300;
   color: 	#787878;
   @media @mobile {
-  font-size: 12px;
+  font-size: 16px;
   }
 }
 

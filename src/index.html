@@ -5,18 +5,20 @@
 
 <body>
 
-    <%= t.include("partials/_nav.html") %>
-
-    <%= t.include("partials/_top.html") %>
-
-    <%= t.include("partials/_story.html", {'story': archieml.PandemicOpioidTemplate}) %>
+    <%= t.include("partials/_story.html", {'story': archieml.TenantCitiesPart1}) %>
 
     <div style="padding-bottom: 2em;"></div>
 
   <!-- Footer -->
-  <%= t.include("partials/_footer.html") %>
+  <!-- <%= t.include("partials/_footer.html") %> -->
 
   <script src="app.js" async></script>
-  <%= t.include("partials/_analytics.html") %>
+  
+  <!-- Pym -->
+  <script type="text/javascript">
+    const pymChild = new pym.Child({ polling: 100 });
+  </script>
+
+  <!-- <%= t.include("partials/_analytics.html") %> -->
   </body>
 </html>

@@ -1,0 +1,114 @@
+[+sections]
+{.bug}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/Tenant-Cities-Copy-11-336x336.png
+alt: tenant cities logo
+{}
+When DaJuan Davis learned that his application for rent relief was denied, exposing him and his son to another potential eviction, he felt “crushed.”
+“I felt so dejected. It took a lot of energy from me,” said Davis, 45, in a January interview. The sometime commercial driver and convenience store worker, now employed by McDonald’s, sat on his living room couch, while his 13-year-old son attended virtual school in an adjacent bedroom.
+He said he’s rented from Monroeville-based Arbors Management for 11 years. He’d weathered eviction filings, which followed a change of employment and gap in pay, in 2019.
+His best hope of avoiding another eviction filing, following his July 8 loss of a job, had seemed to be Pennsylvania’s CARES Rent Relief Program. On July 10, he and the property manager filled out forms seeking six months of state help paying the $610-a-month rent for his Penn Hills apartment.
+<div class="series-description"><p><i>More Pittsburgh households now rent than own their homes, and landlords control a growing share of the housing market countywide. COVID-19 is testing the health of this market, bringing eviction curbs, rent relief and a revived tenants’ rights movement. PublicSource and WESA are exploring these changes and examining the governmental and civic responses to the emergence of <a target="_blank" href="https://www.publicsource.org/series/tenant-cities/">Tenant Cities</a>.</i></p></div>
+<p></p>
+<iframe width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/975344095&color=%23ffb440&inverse=false&auto_play=false&show_user=true"></iframe>
+<p></p>
+But later that month, he was denied relief, as were some 30,000 other Pennsylvanians. He’s not certain why. Now, Davis faces an eviction hearing that could occur in April. If ejected, his son can move in with the son’s mother. But the father? “What am I supposed to do?” he asked. “Am I supposed to hide under my couch?”
+While Davis worries, Pennsylvania state and local governments mull the coming distribution of $852 million in new federal aid earmarked for rent relief, part of the <a target="_blank" href="https://www.npr.org/2020/12/27/950133658/trump-signs-covid-19-relief-package-after-threatening-to-derail-it">$900 billion</a> <a target="_blank" href="https://www.npr.org/2020/12/21/948744901/here-is-whats-in-congress-covid-19-relief-package">COVID-19 relief package Congress approved</a> in late December.
+{.big-photo}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/IMG_0467-1536x1024.jpg
+alt: Denied aid by the CARES Rent Relief Program, DaJuan Davis sits on the couch in his Penn Hills apartment. The landlord has filed to evict him. (Photo by Jay Manning/PublicSource)
+caption: Denied aid by the CARES Rent Relief Program, DaJuan Davis sits on the couch in his Penn Hills apartment. The landlord has filed to evict him. (Photo by Jay Manning/PublicSource)
+{}
+A <a target="_blank" href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/eviction-moratoria-order-faqs.pdf">Centers for Disease Control [CDC] order</a> restricting evictions, plus federally funded <a target="_blank" href="https://covidrentrelief.alleghenycounty.us/#:~:text=Allegheny%20County%20partnered%20with%20the%20Pennsylvania%20Housing%20Finance,assistance%20applications%2C%20there%20are%20still%20places%20to%20turn.">rent relief</a>, were supposed to combine to prevent a surge of displacement that could further spread the COVID-19 virus disease. But last year’s spotty rent relief effort suggests that it may be hard to combine eviction curbs and relief in a way that truly stabilizes the rental housing market.
+COVID has hit a rental market that now houses the majority of City of Pittsburgh residents — a change from historic norms — and an increasing share of the countywide population.
+Last year, the state’s rent relief program approved just over 1/3 of applications that came in by its deadline of Nov. 4. The state spent just $54 million of the $150 million it allocated for tenants and their landlords, according to the Pennsylvania Housing Finance Agency [PHFA], which coordinated the program. The remainder <a target="_blank" href="https://www.spotlightpa.org/news/2020/12/rent-relief-pennsylvania-rrp-cares-act-eviction-mortgage-budget-doc/">went instead to the Department of Corrections</a>, as Republican legislators and Democratic Gov. Tom Wolf <a target="_blank" href="https://www.spotlightpa.org/news/2020/11/pennsylvania-budget-coronavirus-relief-aid-restaurants-providers/">balanced the state’s pandemic-walloped budget</a>.
+PHFA delegated distribution of the funds to counties. Allegheny County managed to dish out $14.7 million in rent relief, but only tapped the state program for around 5% of that. Instead, in late October, the county largely ditched the state’s rules and funds, using its own federal allocation. Still, it paid only half of its applicants, and county officials are hoping to do better in round two.
+{.pullquote}
+text: “I don't feel worthless. It just feels as though that, like, time is running out, you know what I mean? ... I don't really know what I'm going to do.”
+{}
+“As of this moment, I think we operate under the previous premise that there’s an incredible amount of demand in the community,” said Allegheny County Development Director Lance Chimka, “and we need to mobilize resources as quickly as possible to meet that demand.”
+Without relief, Davis is taking every shift he can at McDonald’s, and trying to keep his head up.
+“I don't feel worthless,” Davis said. “It just feels as though that, like, time is running out, you know what I mean? ... I don't really know what I'm going to do.”
+<h2>A “burdensome” application process</h2>
+Since March, there have been various bans and curbs on evictions, and the <a target="_blank" href="https://www.governor.pa.gov/newsroom/gov-wolf-calls-for-legislative-action-to-help-homeowners-and-renters-avoid-an-eviction-cliff/">implicit tradeoff</a> has been federally funded rent relief that would help keep landlords afloat. 
+But rent relief was plagued with problems, and local eviction filings are creeping up.
+The state’s CARES Rent Relief Program <a target="_blank" href="https://www.phfa.org/forms/pacares/rental/cares-rent-relief-program-guidelines.pdf#:~:text=The%20Pennsylvania%20Housing%20Finance%20Agency%20%28Agency%29%20hereby%20provides,to%20counties%20throughout%20the%20Commonwealth%20to%20provide%20financial">started taking applications in July</a>. State officials said they struggled to get funds to those in need for a number of reasons, some driven by federal rules and others added at the state level. The program included a requirement that tenants be 30 days in arrears and complete extensive paperwork. In most of the state, landlords had to agree to accept the maximum $750 monthly cap on assistance as full payment of rent, and some were reluctant to write off any balance.
+<hr />
+
+*Related - <a target=”_blank” href=”https://www.publicsource.org/tenant-cities-allegheny-butler-beaver-westmoreland-county-rent-relief-covid-coronavirus-pennsylvanialove-story-loss-record-spike-covid-coronavirus”>Tenant Cities: Going it alone in Allegheny County</a>*
+
+<hr />
+“The application process was burdensome, to have both a tenant part and a landlord part and having a lot of documentation required. I think [that] really made for challenges for those first few months in the program,” said Bryce Maretzki, director of the Office of Strategic Planning &amp; Policy of PHFA. 
+“Our office was inundated with calls from tenants and landlords who were expressing frustration with the program,” said state Rep. Sue Helm, R-Dauphin/Lebanon, who chaired the House Urban Affairs Committee last year.
+<h2>One approved, one denied</h2>
+Officials have said <a target="_blank" href="https://www.publicsource.org/developpghbulletins-pittsburgh-allegheny-county/#evictionfears">they are particularly concerned</a> about the solvency of “mom-and-pop” landlords.
+Landlord Aubrey Halliburton, of Polish Hill, saw both of her tenants lose their jobs early in the pandemic. She doesn’t want to evict them. “It wouldn’t help anyone,” she said, calling her tenants “really great.”
+But with her cocktail catering company on hold due to the pandemic, she wants to keep some rent flowing. So she helped both tenants to apply for rent relief, which was backed by federal funds through the <a target="_blank" href="https://www.congress.gov/116/bills/hr748/BILLS-116hr748enr.pdf">Coronavirus Aid, Relief, and Economic Security [CARES] Act</a>.
+{.big-photo}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/IMG_0547-1536x1024.jpg
+alt: “We ended up getting three months of rent for one of our tenants, which was super helpful, because she’s out of work," said Aubrey Halliburton, a landlord with two tenants, based on Polish Hill. But she's still down $3,000. (Photo by Jay Manning/PublicSource)
+caption: “We ended up getting three months of rent for one of our tenants, which was super helpful, because she’s out of work," said Aubrey Halliburton, a landlord with two tenants, based on Polish Hill. But she's still down $3,000. (Photo by Jay Manning/PublicSource)
+{}
+One tenant was approved, the other denied, with no explanation.
+
+“We ended up getting three months of rent for one of our tenants, which was super helpful, because she’s out of work, and it’s definitely going to help our situation, too,” she said, but she’s still out around $3,000.
+She hopes the next round of rent relief makes up some of the loss, adding that it’s “really key” to stabilizing a rental housing market that faces increasing instability.
+“Because once this is ended,” she said, “or people can go back to their job, or they are able to get back on their feet, no one is going to be able to afford to pay back thousands of dollars of rent that they couldn’t afford, hardly, in the first place, when life was, you know, viable.”
+<h2>Failure to act</h2>
+By August, a number of <a target="_blank" href="https://www.post-gazette.com/news/social-services/2020/08/28/program-aid-renters-Allegheny-County-landlords-applications-funds-Pa-housing/stories/202008280116?cid=search">elected officials and advocates were saying</a> the rent relief program wasn’t getting money out to those who needed it quickly enough. They called for changes, some of which could only be made by the legislature.
+A bill by Helm to streamline some of the process <a target="_blank" href="https://www.legis.state.pa.us/cfdocs/billInfo/bill_history.cfm?syear=2019&amp;sind=0&amp;body=H&amp;type=B&amp;bn=2868">passed the Republican-controlled state House in mid-October last year, but never got a vote in the state Senate.</a> 
+Senate Republicans didn’t respond to inquiries about rent relief.
+Senate Minority Leader Jay Costa, D-Forest Hills, believes that the chamber’s majority Republicans failed to fix rent relief because, “In part, probably, they wanted to hold on as much as they could to resources that could be used to help balance the budget, <a target="_blank" href="https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&amp;sessYr=2019&amp;sessInd=0&amp;billBody=H&amp;billTyp=B&amp;billNbr=2536&amp;pn=4626">which these resources ultimately were used for.”.</a>
+House Republicans are promising that their chamber won’t delay rent relief. “The bottom line is that if tenants can’t pay their rent, then landlords can’t pay their bills,” said Rep. Jerry Knowles, R-Berks/Carbon/Schuylkill, who now chairs Urban Affairs. “It’s pretty simple.”
+The state’s failure to spend most of the funds it had set aside to help tenants and landlords has housing advocates worried. Some are urging officials to not repeat the mistakes with the second round of assistance — more than $850 million directed to Pennsylvania from the federal government. 
+“Reducing the restrictions and requirements as much as possible is just so important, so we get the money out as quickly as possible because one of my concerns is that it is a lot of money and most agencies aren't used to administering this much money,” said Phyllis Chamberlain, executive director of The Housing Alliance of Pennsylvania.
+{.pullquote}
+text: “This is a critically important program, and it has to be up and running as soon as possible, not only for the benefit of those renters, but landlords as well who [have] not been receiving their checks, their rent checks.”
+{}
+A bill that passed the state Senate Wednesday would have the state Department of Human Services, rather than PHFA, administer the next round of rent relief. It would compel DHS to steer funds to counties by April 1. Allowing the funds to be used for rent, utilities and outstanding obligations to landlords and utility providers, it sets few parameters for payments, other than saying that DHS can't add any stipulations that aren't mandated by the federal government.
+<a target="_blank" href="https://home.treasury.gov/system/files/136/ERA-Frequently-Asked-Questions_Pub-1-19-21.pdf">U.S. Treasury guidance</a> suggests that the second round of relief will be different from the first. Lower-income renters will be prioritized, there won’t be a benefit cap, and the funds can also be used for up to 12 months of rent and utility costs.
+Unlike last year, funds that aren’t spent by the end of September will have to be returned to the federal government.
+Some elected officials have said the state will do better with the upcoming round of funding.
+“We need to make sure we do not fall susceptible to the same barriers we learned under the PHFA program,” Gov. Tom Wolf’s office said in a statement, adding they are working with legislators to ensure “these dollars are driven out effectively and efficiently to guarantee those Pennsylvania residents with the most need are receiving these critical dollars, rather than returning them to the federal government.”
+“This is a critically important program, and it has to be up and running as soon as possible, not only for the benefit of those renters, but landlords as well who [have] not been receiving their checks, their rent checks,” Sen. Costa said. “And we can't make it a very burdensome, problematic process. Otherwise, we defeat the whole purpose of having this program.” 
+{.big-photo}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/IMG_0421_1-1536x1024.jpg
+alt: DaJuan Davis is part of the growing number of tenants in Allegheny County. In Penn Hills, where he lives, around 26% of households rent. (Photo by Jay Manning/PublicSource)
+caption: DaJuan Davis is part of the growing number of tenants in Allegheny County. In Penn Hills, where he lives, around 26% of households rent. (Photo by Jay Manning/PublicSource)
+{}
+<h2>The tenant tide</h2>
+The rental housing economy matters now more than ever.
+Just a decade ago, a <a target="_blank" href="https://data.census.gov/cedsci/table?q=City%20of%20Pittsburgh%202010%20tenure&amp;tid=ACSDP1Y2010.DP04&amp;hidePreview=true">majority of Pittsburgh households</a> owned their homes, and just <a target="_blank" href="https://data.census.gov/cedsci/table?q=Allegheny%20County%202010%20tenure&amp;tid=ACSDP1Y2010.DP04&amp;hidePreview=false">one in three Allegheny County households</a> rented, according to Census Bureau estimates. 
+Chris Briem, a regional economist with the University of Pittsburgh's Center for Social and Urban Research, says the city has had "owner-occupied households as a majority through much of Pittsburgh's modern history." Census estimates released in 2020, though, indicate that <a target="_blank" href="https://censusreporter.org/profiles/06000US4200361000-pittsburgh-city-allegheny-county-pa/">55% of city households</a> now live in someone else’s property.
+Briem said the rental surge is driven by the fact that "we've gotten younger as a city." Many younger residents aren't ready to put down roots, he said, fueling the dominance of the rental market. That, he said, "makes for a very different city."
+The city of <a target="_blank" href="https://censusreporter.org/profiles/16000US4220432-duquesne-pa/">Duquesne</a>, plus boroughs like <a target="_blank" href="https://censusreporter.org/profiles/16000US4285188-wilkinsburg-pa/">Wilkinsburg</a> and <a target="_blank" href="https://censusreporter.org/profiles/16000US4207992-braddock-pa/">Braddock</a>, also have tenant majorities, and McKeesport is evenly balanced. Countywide, around <a target="_blank" href="https://censusreporter.org/profiles/05000US42003-allegheny-county-pa/">206,000 households, or 37%</a> of the total, now rent.
+In 2019, landlords filed 13,105 eviction cases in Allegheny County. Last year, pandemic-driven moratoriums and curbs on evictions pushed that number down to 5,219. This year, even as hearings and ejections are on pause, landlord eviction filings are on the rise.
+<div class="infogram-embed" data-id="0b625f26-b798-4ed8-b8c8-dc408d5c1297" data-type="interactive" data-title="Evictions by month thru 112020"></div>
+<script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<h2>Evictions not halted</h2>
+In March, the state put a halt to virtually all eviction activity. And shortly after state bans expired on Aug. 31, the <a target="_blank" href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/eviction-moratoria-order-faqs.pdf">CDC put a stop</a> to most evictions solely for nonpayment of rent. In the early hours of Joe Biden’s presidency, that order was <a target="_blank" href="https://www.cdc.gov/media/releases/2021/s0121-eviction-moratorium.html">extended to March 31</a>.
+The CDC allows eviction for "criminal activity while on the premises," threatening health or safety of other residents, damaging property, and violating building codes or lease terms.
+That’s why eviction filings have continued, with January on pace to produce nearly 400 landlord/tenant cases in Allegheny County, up from 288 in December. Allegheny County Court of Common Pleas Judge Kim Berkeley Clark has <a target="_blank" href="https://www.alleghenycourts.us/downloads/administration/010721_Amended_Emergency_Operations_Order.pdf">repeatedly postponed hearings</a> on the cases, but hundreds of cases await the expiration of her orders.
+Davis’ case is now among them. He bounced between jobs last year, resulting in short periods without pay, which snowballed. He fell $3,065 behind on rent by June, according to a ledger Arbors sent him in December.
+When his unemployment came through, he paid $3,400, and he later forked over another $1,269. But with state aid denied, and Arbors adding late fees, he never caught up.
+{.inline-img}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/DaJuan-Davis-payment-ledger-2.jpg
+alt: Excerpt from Notice to Vacate sent by Arbors Management to DaJuan Davis, dated Dec. 16, 2020.
+caption: Excerpt from Notice to Vacate sent by Arbors Management to DaJuan Davis, dated Dec. 16, 2020.
+{}
+A Notice to Vacate which Arbors sent to Davis in mid-December cites the debt, his guilty pleas to summary offenses from a July incident at Forbes Regional Hospital, a barbecuing incident that left a charcoal stain on the front stairs, and four instances of excessive noise.
+{.inline-img}
+img: https://www.publicsource.org/wp-content/uploads/2021/01/Arbors-Notice-snip.jpg
+alt: Excerpt from Notice to Vacate sent by Arbors Management to DaJuan Davis, dated Dec. 16, 2020.
+caption: Excerpt from Notice to Vacate sent by Arbors Management to DaJuan Davis, dated Dec. 16, 2020.
+{}
+“I don't know. Those things aren't serious to me,” said Davis.
+An Arbors property manager declined comment. <a target="_blank" href="https://arbors.com/">The company’s website</a> indicates that it manages 4,000 units in Western Pennsylvania and West Virginia.
+While Davis hopes for aid, he’s taking on extra work, and getting involved with the anti-eviction United Neighborhood Defense Fund.
+He's also trying to prepare his son for future upheaval, without spoiling his early-teen optimism.
+“We just woke up early this morning, and we were just having a numerous-subject [conversation],” Davis said. “And one of the conversations was about resentment, and about what others do to you, and like, how do you handle that.”
+<i>Rich Lord is PublicSource’s economic development reporter, and can be reached at <a href="mailto:rich@publicsource.org">rich@publicsource.org</a> or on Twitter</i><a href="https://twitter.com/richelord"> <i>@richelord</i></a><i>.</i>
+<i>Kate Giammarise is a reporter covering the impact of COVID-19 on the economy for WESA, and can be reached at <a href="mailto:kgiammarise@wesa.fm">kgiammarise@wesa.fm</a> or 412-697-2953.</i>
+<i>Jay Manning is a visual storyteller/producer at PublicSource, and can be reached at <a href="mailto:jay@publicsource.org">jay@publicsource.org</a>.</i>
+<i>Margaret J. Krauss is WESA's development and transportation reporter, and can be reached at <a href="mailto:mkrauss@wesa.fm">mkrauss@wesa.fm</a>.</i>
+<i>This story was fact-checked by Megan Gent.</i>
+[]
