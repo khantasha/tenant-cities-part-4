@@ -1,0 +1,3 @@
+[+sections]
+<div class="series-description-solo"><p><i>More Pittsburgh households now rent than own their homes, and landlords control a growing share of the housing market countywide. COVID-19 is testing the health of this market, bringing eviction curbs, rent relief and a revived tenants’ rights movement. PublicSource and WESA are exploring these changes and examining the governmental and civic responses to the emergence of <a target="_blank" href="https://www.publicsource.org/series/tenant-cities/">Tenant Cities</a>.</i></p></div>
+[]

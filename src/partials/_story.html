@@ -47,6 +47,12 @@
         <p><i><%= section.value.text %></i></p>
       </div>
 
+    <!-- Series description solo -->
+    <% }else if(section.type == "series-description-solo"){ %>
+      <div class="series-description">
+        <p><i><%= section.value.text %></i></p>
+      </div>
+
     <!-- Inline image -->
     <% }else if(section.type == "inline-img"){ %>
       <img class="inline-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
