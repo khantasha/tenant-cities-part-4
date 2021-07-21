@@ -41,11 +41,11 @@ He acknowledged that the bank’s efforts have faced setbacks, driven by governm
 
 After PNC bought property in McKeesport, the bank contacted local officials “right off the bat,” said the city’s Community Development Director A.J. Tedesco Jr.
 
-"They said, 'We're going to work with you, we're going to change the culture of those buildings and we're going to make them nice and do all this,'" Tedesco said in a June interview.
+“They said, ‘We're going to work with you, we're going to change the culture of those buildings and we're going to make them nice and do all this,’” Tedesco said in a June interview.
 
 In 2019 and 2020, though, health code violations and 911 calls at Hi View and Midtown jumped nearly 50% compared to the prior two years, driving some of the nearly 200 households to search — often in vain — for other housing options.
 
-Said Tedesco: "So it seems to have really gone downhill since their initial takeover.”
+Said Tedesco: “So it seems to have really gone downhill since their initial takeover.”
 
 <h2>From ‘beautiful’ to ‘unfair’</h2>
 
@@ -72,11 +72,11 @@ PMI did not respond to interview requests.
 
 PublicSource and WESA reviewed Health Department data and around 800 documents — including 89 inspection reports noting one or more violations — describing the county’s handling of health complaints in Hi View and Midtown.
 
-<div class="infogram-embed" data-id="c58980f4-a3ed-4d33-97e4-f06b6f925a08" data-type="interactive" data-title="Violations II"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div style="margin: 1.5em 0 1.5em 0;" class="infogram-embed" data-id="c58980f4-a3ed-4d33-97e4-f06b6f925a08" data-type="interactive" data-title="Violations II"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 Combined, Hi View and Midtown amount to around 5% of McKeesport’s 4,400 rental units. From 2017 through 2019, they typically accounted for around 10% of that city's health code violations. Last year, the 143 housing health code violations found in Hi View and Midtown accounted for 42% of such violations logged by the county in that city.
 
-<div class="infogram-embed" data-id="4083333e-813c-473f-ac5e-f0b242646623" data-type="interactive" data-title="Violations"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div style="margin: 1.5em 0 1.5em 0;" class="infogram-embed" data-id="4083333e-813c-473f-ac5e-f0b242646623" data-type="interactive" data-title="Violations"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 Last year, Health Department inspectors responding to complaints from Hi View and Midtown found:
 <ul>
@@ -114,7 +114,7 @@ Crow said much of the maintenance backlog has been cleared. He added that he had
 “Our understanding is that the property management team got those problems fixed as quickly as supply chains would permit,” he said.
 
 {.big-photo}
-img: https://www.publicsource.org/wp-content/uploads/2021/07/image1.jpg
+img: https://www.publicsource.org/wp-content/uploads/2021/07/image5.jpg
 alt: Andres Serrano lives with his mother in Midtown Plaza. Because one or the other of the elevators in the 11-floor building is frequently out of service, his mother must frequently wait in her wheelchair for as long as half an hour to leave the building. County 911 logs show 42 calls in 2019 and 2020 from people requiring rescue from elevators in Midtown and nearby Hi View Gardens – up from a total of 10 in 2017 and 2018. Serrano’s bedroom included a section of ceiling and carpet that were soaked from wall to wall, a condition that he said continued for a year before he and his mother were transferred one floor up on June 28. (Photo by Ryan Loew/PublicSource)
 caption: Andres Serrano lives with his mother in Midtown Plaza. Because one or the other of the elevators in the 11-floor building is frequently out of service, his mother must frequently wait in her wheelchair for as long as half an hour to leave the building. County 911 logs show 42 calls in 2019 and 2020 from people requiring rescue from elevators in Midtown and nearby Hi View Gardens – up from a total of 10 in 2017 and 2018. Serrano’s bedroom included a section of ceiling and carpet that were soaked from wall to wall, a condition that he said continued for a year before he and his mother were transferred one floor up on June 28. (Photo by Ryan Loew/PublicSource)
 {}
